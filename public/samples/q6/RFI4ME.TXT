@@ -1,0 +1,25 @@
+
+
+
+                  Firm 4                                                            LS        B1
+STEAK                           Burger              1     148.0      3000      6.17     0.000         0
+CHICKEN                         Fingers             1     170.0      3500      5.19     0.000         0
+PASTA                           Domestic            1     170.0      3500      5.19     0.000         0
+PORK                            Ribs                2     170.0      3500      7.45     0.000         0
+BEER                            Popular             1      40.0      2900      2.99     0.000         0
+WINE                            House               1      15.0       800      3.79     0.000         0
+                                                                                        0.000
+                                                                                        0.000
+                                                                                        0.000
+                                                                                        0.000
+Management                                        1.5       0.0       0.0         0         0         0         0         0         0         0
+Supervisory                                       1.0       0.0       0.0         0         0         0         0         0         0         0
+Service                                          10.0       0.0       0.0         0         0
+Support                                           9.0       0.0       0.0         0         0
+Operations                                       23.0     10.75      0.23      5000      1600         1         0         0         0     12000
+Finance                                            -0        +0    -40000         0         0         0         0         0
+Assets - Investments                                0         0
+       - Leases                                     0         0
+       - Borrowings                                 0         0
+Variances                                           0         0
+

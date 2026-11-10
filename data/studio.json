@@ -1,0 +1,20 @@
+{
+  "title": "Scrumptious",
+  "projectNote": "One shared app, five areas of ownership. Build the foundation together, then use small pull requests to keep main working.",
+  "owners": [
+    { "name": "Kylie", "area": "Results & dashboard", "branch": "kylie/results-dashboard", "scope": "Results screens, comparisons, ratios, chart accessibility, and integration across the app." },
+    { "name": "Sarah", "area": "Student decisions", "branch": "sarah/student-decisions", "scope": "Shared design system, student forms, validation feedback, and responsive layouts." },
+    { "name": "Kalynn", "area": "Database", "branch": "kalynn/database", "scope": "Relational model, migrations, constraints, team/round keys, and data contracts." },
+    { "name": "Tahj", "area": "RFI generator", "branch": "tahj/rfi-generator", "scope": "Validated decisions to fixed-width RFI files, fixture tests, and file downloads." },
+    { "name": "Cole", "area": "FR.LST import", "branch": "cole/frlst-import", "scope": "Parse engine output, validate firm and period matches, and store results for release." }
+  ],
+  "colors": { "primary": "#E0A94F", "background": "#FFFFFF", "text": "#1F3A2A", "card": "#FCEDE4", "alert": "#D98B62" },
+  "architecture": [
+    { "id": "ADR-01", "title": "One app with two role-specific experiences", "status": "Accepted", "rationale": "Students enter and review decisions. Professors manage submissions, prepare files, import output, and release results. Shared components keep both sides consistent.", "consequence": "The role selector previews screens. It does not grant a real professor role. Verified student/professor permissions remain a production task." },
+    { "id": "ADR-02", "title": "Keep the FORTRAN engine external", "status": "Accepted", "rationale": "The existing engine is the source of simulation outcomes. The app modernizes decisions, file preparation, and results without rewriting simulation formulas.", "consequence": "The professor downloads RFI files, runs FORTRAN manually, and imports the original FR.LST. There is no Run simulation button." },
+    { "id": "ADR-03", "title": "Preserve fixed-width files with tested templates", "status": "Accepted", "rationale": "The supplied RFI examples include control fields whose meanings are not fully documented. Change only mapped fields and preserve reserved data, spacing, and original line endings.", "consequence": "Unedited decisions must reproduce all 30 supplied RFI examples byte for byte. Report flag names and business ranges need instructor confirmation." },
+    { "id": "ADR-04", "title": "Identify menu selections by line number", "status": "Proposed", "rationale": "Firm 2 in Q2 offers STEAK twice, once as Sirloin and once as Burger. A key based only on menu item would discard one valid choice.", "consequence": "Use (TeamID, RoundNumber, LineNumber) for menu decisions and results. Separate imported outcomes from editable decisions." },
+    { "id": "ADR-05", "title": "Persist the prototype in a shared D1 workspace", "status": "Accepted", "rationale": "Decisions, released results, design tokens, and planning notes need to survive reloads and appear across devices. D1 stores an atomic snapshot with an optimistic revision check.", "consequence": "The snapshot is the current runtime. The normalized SQL model is the proposed next step for the database area. Stale saves return a conflict instead of overwriting a newer edit." },
+    { "id": "ADR-06", "title": "Use desktop-first forms with four focused parts", "status": "Accepted", "rationale": "Teams compare prices, portions, staffing, and budgets on laptops. Four parts group related decisions and show completion without crowding the home screen.", "consequence": "Menu, Staffing, Amenities & upkeep, and Management info share one draft. Users can jump directly to a part, then review the full strategy before submitting." }
+  ]
+}

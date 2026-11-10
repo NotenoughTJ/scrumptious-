@@ -1,0 +1,25 @@
+
+
+
+                  Firm 3                                                            LS        B1
+CHICKEN                         Breast              2     215.0      2500     10.00     0.000         0
+SHRIMP                          Breaded             1     190.0      2500     11.00     0.000         0
+SALAD BOWL                      Self Sv             2     190.0      2500      8.50     0.000         0
+PORK                            BBQ                 1     180.0      2500      8.00     0.000         0
+ROAST BEEF                      Rib Eye             3     180.0      2500     13.00     0.000         0
+WINE                            Domestic            2      15.0      1000      6.50     0.000         0
+                                                                                        0.000
+                                                                                        0.000
+                                                                                        0.000
+                                                                                        0.000
+Management                                        1.5       0.0       0.0         0         0         0         0         0         0         0
+Supervisory                                       1.0       0.0       0.0         0         0         0         0         0         0         0
+Service                                          10.0       0.0       0.0         0         0
+Support                                           9.0       0.0       0.0         0         0
+Operations                                       23.0     12.50      1.00      7000     18000         1         0         0         0     12000
+Finance                                             0         0         0         0         0         0         0         0         0         0
+Assets - Investments                                0         0
+       - Leases                                     0         0
+       - Borrowings                                 0         0
+Variances                                           0         0
+
