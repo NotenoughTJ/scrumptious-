@@ -1,6 +1,8 @@
 # Scrumptious
 LSU ISDS 4125 restaurant simulation — an editable, desktop-first team prototype around the existing FORTRAN engine.
 
+Source branch: `Tahj-AI`. Review the shared foundation in a pull request before merging it into `main`.
+
 ## Try the app
 
 Live private prototype: https://scrumptious-team-studio.lavishwaxwing3.chatgpt.site

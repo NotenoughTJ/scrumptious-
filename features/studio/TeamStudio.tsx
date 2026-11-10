@@ -5,7 +5,7 @@ import type { Workspace, Studio, Action } from "../shared/types";
 import { Badge, PageTitle, download } from "../shared/ui";
 type Props = { state: Workspace; tab: string; busy: boolean; mutate: (a: Action) => Promise<Workspace | null>; walkthrough: () => void };
 const repo = "https://github.com/NotenoughTJ/scrumptious-";
-const source = repo + "/tree/tahj/shared-foundation/";
+const source = repo + "/tree/Tahj-AI/";
 const stages = [
   { title: "Student decisions", owner: "Sarah", module: "features/student-decisions", contract: "Decision", read: "Menu, staffing, amenities, budgets, raw report flags, and financial changes.", write: "One draft for each team and quarter. Submission runs validation before locking the draft.", why: "Four focused parts make a long form easier to scan. Every part belongs to the same strategy; students review them together before submitting." },
   { title: "Shared database", owner: "Kalynn", module: "features/database", contract: "Workspace + revision", read: "The same saved state powers student, professor, and Team Studio views.", write: "Cloudflare D1 stores an atomic prototype snapshot. A revision check rejects stale saves.", why: "One source of truth keeps submissions, imports, and released results connected. The normalized domain model is supplied as a proposed migration path." },
