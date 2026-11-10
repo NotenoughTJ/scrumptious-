@@ -2,9 +2,9 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import fs from "node:fs";
 import { buildSync } from "esbuild";
-const built = buildSync({ stdin: { contents: 'export {generateRfi} from "./features/rfi-generator/generator.ts"; export {parseFrlst} from "./features/frlst-import/parser.ts"; export {validationErrors} from "./features/student-decisions/validation.ts"; export {reduceWorkspace} from "./features/shared/actions.ts"; export {zipTexts} from "./features/rfi-generator/zip.ts";', resolveDir: process.cwd(), loader: "ts" }, bundle:true, format:"cjs", platform:"node", write:false });
+const built = buildSync({ stdin: { contents: 'export {generateRfi} from "./features/rfi-generator/generator.ts"; export {parseFrlst} from "./features/frlst-import/parser.ts"; export {validationErrors} from "./features/student-decisions/validation.ts"; export {reduceWorkspace} from "./features/shared/actions.ts"; export {zipTexts} from "./features/rfi-generator/zip.ts"; export {readDemoWorkspace,applyDemoAction,demoRfi,DEMO_STORAGE_KEY} from "./features/shared/static-workspace.ts";', resolveDir: process.cwd(), loader: "ts" }, bundle:true, format:"cjs", platform:"node", write:false });
 const mod={exports:{}};new Function("module","exports",built.outputFiles[0].text)(mod,mod.exports);
-const { generateRfi,parseFrlst,validationErrors,reduceWorkspace,zipTexts }=mod.exports;
+const { generateRfi,parseFrlst,validationErrors,reduceWorkspace,zipTexts,readDemoWorkspace,applyDemoAction,demoRfi,DEMO_STORAGE_KEY }=mod.exports;
 const decisions=JSON.parse(fs.readFileSync("tests/fixtures/decisions.json","utf8"));
 const seed=JSON.parse(fs.readFileSync("data/seed.json","utf8"));
 const report=q=>fs.readFileSync("public/samples/q"+q+"/FR.LST","utf8");
@@ -86,4 +86,23 @@ test("ZIP package contains the five exact text payloads",async()=>{
   let offset=0;
   for(const file of files){assert.equal(v.getUint32(offset,true),0x04034b50);const size=v.getUint32(offset+18,true),length=v.getUint16(offset+26,true);assert.equal(new TextDecoder().decode(bytes.slice(offset+30,offset+30+length)),file.name);assert.equal(new TextDecoder().decode(bytes.slice(offset+30+length,offset+30+length+size)),file.content);offset+=30+length+size;}
   assert.equal(v.getUint32(offset,true),0x02014b50);assert.equal(v.getUint32(bytes.length-22,true),0x06054b50);assert.equal(v.getUint16(bytes.length-14,true),5);
+});
+
+function browserStorage(){const data=new Map();return {getItem:key=>data.get(key)??null,setItem:(key,value)=>data.set(key,value)};}
+test("Pages demo seeds locally and saves Studio edits across reloads",async()=>{
+ const storage=browserStorage(),s=readDemoWorkspace(storage);
+ const studio=structuredClone(s.studio);studio.projectNote="Browser-only saved note";
+ const result=await applyDemoAction({kind:"saveStudio",studio},s.revision,storage);
+ assert.equal(result.state.revision,2);assert.equal(readDemoWorkspace(storage).studio.projectNote,studio.projectNote);assert.equal(seed.revision,1);
+});
+test("Pages demo rejects stale browser saves and malformed saved state",async()=>{
+ const storage=browserStorage(),s=readDemoWorkspace(storage);
+ await applyDemoAction({kind:"saveStudio",studio:s.studio},s.revision,storage);
+ await assert.rejects(()=>applyDemoAction({kind:"saveStudio",studio:s.studio},s.revision,storage),/newer browser demo/);
+ storage.setItem(DEMO_STORAGE_KEY,"{}");assert.throws(()=>readDemoWorkspace(storage),/could not be read/);
+});
+test("Pages RFI downloads use the exact locked strategy",async()=>{
+ await assert.rejects(async()=>demoRfi(seed,1),/locked/);
+ const locked=(await reduceWorkspace(await readyState(),{kind:"lock",roundNumber:3})).state;
+ assert.equal(demoRfi(locked,1),fs.readFileSync("public/samples/q3/RFI1ME.TXT","utf8"));
 });

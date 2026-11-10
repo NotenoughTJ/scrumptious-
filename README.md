@@ -11,6 +11,14 @@ Student view supports draft editing, validation, review, submission, and release
 
 The demo starts with Q2 released and Q3 open. Firms 2, 3, and 4 have submitted; Firm 1 and Firm 5 are drafts. The original simulation remains external and is run manually by the professor. The sample-import button reads supplied historical output; it does not execute the simulation.
 
+## Temporary GitHub Pages preview
+
+A separate static build preserves the demo screens and file workflow on GitHub Pages. It uses sample data and browser-only storage; it does not connect to D1 or provide real authentication.
+
+    npm run build:pages
+
+The Pages workflow builds from main. Enable **Settings → Pages → Source → GitHub Actions** once, then run the **Temporary GitHub Pages demo** workflow. GitHub Pages must be available for this private repository’s account plan. No repository visibility changes are made by this workflow.
+
 ## Run locally
 
 Requires Node.js 24 (minimum 22.13), npm, and Git. After cloning and checking out the foundation branch or updated main:
