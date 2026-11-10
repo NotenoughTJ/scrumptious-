@@ -1,0 +1,25 @@
+
+
+
+                  Firm 1                                                            LS        B1
+STEAK                           Filet               3     180.0      2000     24.95     0.000         0
+SALAD BOWL                      Gourmet             3     190.0      1000     17.50     0.000         0
+CHICKEN                         Game Hen            3     170.0      1750     21.75     0.000         0
+PASTA                           Fresh               3     180.0      1500     18.95     0.000         0
+SHRIMP                          Jumbo               3     160.0      1250     24.95     0.000         0
+WINE                            Imported            3      15.0      1000     12.00     0.000         0
+BEER                            Imported            3      36.0       750      7.00     0.000         0
+SPIRITS                         Premium             3       4.0      1000      9.00     0.000         0
+                                                                                        0.000
+                                                                                        0.000
+Management                                        1.5       0.0       0.0         0         0         0         0         0         0         0
+Supervisory                                       1.0       0.0       0.0         0         0         0         0         0         0         0
+Service                                          10.0       0.0       0.0         0         0
+Support                                           9.0       0.0       0.0         0         0
+Operations                                       29.0     16.50      1.50     12000     15000         0         0         0         0     12000
+Finance                                             0         0         0         0         0         0         0         0         0         0
+Assets - Investments                                0         0
+       - Leases                                     0         0
+       - Borrowings                                 0         0
+Variances                                           0         0
+

@@ -1,0 +1,3 @@
+* text=auto eol=lf
+public/samples/** -text
+public/fonts/*.ttf binary

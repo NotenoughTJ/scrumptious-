@@ -1,0 +1,25 @@
+
+
+
+                  Firm 5                                                            LS        B1
+STEAK                           Sirloin             2     225.0      2400     12.50     0.000         0
+CHICKEN                         Breast              2     200.0      2500     10.50     0.000         0
+PASTA                           Imported            2     185.0      2500      9.50     0.000         0
+SHRIMP                          Fresh               2     200.0      2250      8.95     0.000         0
+WINE                            Domestic            2      15.0       800      6.00     0.000         0
+SPIRITS                         Top Shf             2       4.0       800      4.75     0.000         0
+                                                                                        0.000
+                                                                                        0.000
+                                                                                        0.000
+                                                                                        0.000
+Management                                        1.5       0.0       0.0         0         0         0         0         0         0         0
+Supervisory                                       1.0       0.0       0.0         0         0         0         0         0         0         0
+Service                                          10.0       0.0       0.0         0         0
+Support                                           9.0       0.0       0.0         0         0
+Operations                                       29.0     14.00      0.57      7500     18000         0         0         0         0     12000
+Finance                                             0         0         0         0         0         0         0         0         0         0
+Assets - Investments                                0         0
+       - Leases                                     0         0
+       - Borrowings                                 0         0
+Variances                                           0         0
+

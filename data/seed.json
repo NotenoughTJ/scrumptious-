@@ -1,0 +1,1740 @@
+{
+  "revision": 1,
+  "teams": [
+    {
+      "id": 1,
+      "name": "Firm 1",
+      "firmNumber": 1
+    },
+    {
+      "id": 2,
+      "name": "Firm 2",
+      "firmNumber": 2
+    },
+    {
+      "id": 3,
+      "name": "Firm 3",
+      "firmNumber": 3
+    },
+    {
+      "id": 4,
+      "name": "Firm 4",
+      "firmNumber": 4
+    },
+    {
+      "id": 5,
+      "name": "Firm 5",
+      "firmNumber": 5
+    }
+  ],
+  "rounds": [
+    {
+      "roundNumber": 1,
+      "status": "baseline",
+      "releasedAt": "2026-10-01T12:00:00Z",
+      "importHash": null
+    },
+    {
+      "roundNumber": 2,
+      "status": "released",
+      "releasedAt": "2026-10-08T12:00:00Z",
+      "importHash": null
+    },
+    {
+      "roundNumber": 3,
+      "status": "open",
+      "releasedAt": null,
+      "importHash": null
+    }
+  ],
+  "decisions": [
+    {
+      "teamId": 1,
+      "roundNumber": 2,
+      "submittedAt": "2026-10-15T15:00:00Z",
+      "menu": [
+        {
+          "lineNumber": 1,
+          "itemName": "STEAK",
+          "prepLevel": 3,
+          "orderSize": 180,
+          "internalPromotion": 2000,
+          "salesPrice": 24.95
+        },
+        {
+          "lineNumber": 2,
+          "itemName": "SALAD BOWL",
+          "prepLevel": 3,
+          "orderSize": 190,
+          "internalPromotion": 1000,
+          "salesPrice": 17.5
+        },
+        {
+          "lineNumber": 3,
+          "itemName": "CHICKEN",
+          "prepLevel": 3,
+          "orderSize": 170,
+          "internalPromotion": 1750,
+          "salesPrice": 21.75
+        },
+        {
+          "lineNumber": 4,
+          "itemName": "PASTA",
+          "prepLevel": 3,
+          "orderSize": 180,
+          "internalPromotion": 1500,
+          "salesPrice": 18.95
+        },
+        {
+          "lineNumber": 5,
+          "itemName": "SHRIMP",
+          "prepLevel": 3,
+          "orderSize": 160,
+          "internalPromotion": 1250,
+          "salesPrice": 24.95
+        },
+        {
+          "lineNumber": 6,
+          "itemName": "WINE",
+          "prepLevel": 3,
+          "orderSize": 15,
+          "internalPromotion": 1000,
+          "salesPrice": 12
+        },
+        {
+          "lineNumber": 7,
+          "itemName": "BEER",
+          "prepLevel": 3,
+          "orderSize": 36,
+          "internalPromotion": 750,
+          "salesPrice": 7
+        },
+        {
+          "lineNumber": 8,
+          "itemName": "SPIRITS",
+          "prepLevel": 3,
+          "orderSize": 4,
+          "internalPromotion": 1000,
+          "salesPrice": 9
+        }
+      ],
+      "staffPerDay": 29,
+      "hourlyCompensation": 16.5,
+      "amenitiesPerOrder": 1.5,
+      "entertainmentBudget": 12000,
+      "maintenanceBudget": 15000,
+      "reportFlags": [
+        0,
+        0,
+        0
+      ],
+      "timeDepositChange": 0,
+      "certificateOfDepositChange": 0,
+      "notePayableChange": 0
+    },
+    {
+      "teamId": 2,
+      "roundNumber": 2,
+      "submittedAt": "2026-10-15T15:00:00Z",
+      "menu": [
+        {
+          "lineNumber": 1,
+          "itemName": "STEAK",
+          "prepLevel": 2,
+          "orderSize": 220,
+          "internalPromotion": 2500,
+          "salesPrice": 14.5
+        },
+        {
+          "lineNumber": 2,
+          "itemName": "STEAK",
+          "prepLevel": 1,
+          "orderSize": 180,
+          "internalPromotion": 2200,
+          "salesPrice": 9
+        },
+        {
+          "lineNumber": 3,
+          "itemName": "CHICKEN",
+          "prepLevel": 1,
+          "orderSize": 170,
+          "internalPromotion": 2000,
+          "salesPrice": 8.5
+        },
+        {
+          "lineNumber": 4,
+          "itemName": "PASTA",
+          "prepLevel": 2,
+          "orderSize": 180,
+          "internalPromotion": 1850,
+          "salesPrice": 8.5
+        },
+        {
+          "lineNumber": 5,
+          "itemName": "PIZZA",
+          "prepLevel": 1,
+          "orderSize": 250,
+          "internalPromotion": 1900,
+          "salesPrice": 9.5
+        },
+        {
+          "lineNumber": 6,
+          "itemName": "BEER",
+          "prepLevel": 2,
+          "orderSize": 36,
+          "internalPromotion": 1500,
+          "salesPrice": 4
+        },
+        {
+          "lineNumber": 7,
+          "itemName": "SPIRITS",
+          "prepLevel": 2,
+          "orderSize": 4,
+          "internalPromotion": 1000,
+          "salesPrice": 5
+        },
+        {
+          "lineNumber": 8,
+          "itemName": "WINE",
+          "prepLevel": 1,
+          "orderSize": 12.5,
+          "internalPromotion": 850,
+          "salesPrice": 5
+        }
+      ],
+      "staffPerDay": 27,
+      "hourlyCompensation": 12.5,
+      "amenitiesPerOrder": 0.6,
+      "entertainmentBudget": 8500,
+      "maintenanceBudget": 18000,
+      "reportFlags": [
+        0,
+        0,
+        0
+      ],
+      "timeDepositChange": 0,
+      "certificateOfDepositChange": 0,
+      "notePayableChange": 0
+    },
+    {
+      "teamId": 3,
+      "roundNumber": 2,
+      "submittedAt": "2026-10-15T15:00:00Z",
+      "menu": [
+        {
+          "lineNumber": 1,
+          "itemName": "CHICKEN",
+          "prepLevel": 2,
+          "orderSize": 200,
+          "internalPromotion": 2000,
+          "salesPrice": 10
+        },
+        {
+          "lineNumber": 2,
+          "itemName": "FIN FISH",
+          "prepLevel": 2,
+          "orderSize": 250,
+          "internalPromotion": 2000,
+          "salesPrice": 15
+        },
+        {
+          "lineNumber": 3,
+          "itemName": "SHRIMP",
+          "prepLevel": 2,
+          "orderSize": 150,
+          "internalPromotion": 2000,
+          "salesPrice": 22
+        },
+        {
+          "lineNumber": 4,
+          "itemName": "SALAD BOWL",
+          "prepLevel": 2,
+          "orderSize": 180,
+          "internalPromotion": 2000,
+          "salesPrice": 8
+        },
+        {
+          "lineNumber": 5,
+          "itemName": "PORK",
+          "prepLevel": 1,
+          "orderSize": 200,
+          "internalPromotion": 2000,
+          "salesPrice": 9
+        },
+        {
+          "lineNumber": 6,
+          "itemName": "BEER",
+          "prepLevel": 3,
+          "orderSize": 15,
+          "internalPromotion": 800,
+          "salesPrice": 10
+        },
+        {
+          "lineNumber": 7,
+          "itemName": "SPIRITS",
+          "prepLevel": 2,
+          "orderSize": 5,
+          "internalPromotion": 800,
+          "salesPrice": 5
+        }
+      ],
+      "staffPerDay": 28,
+      "hourlyCompensation": 12.5,
+      "amenitiesPerOrder": 0.55,
+      "entertainmentBudget": 7000,
+      "maintenanceBudget": 18000,
+      "reportFlags": [
+        0,
+        0,
+        0
+      ],
+      "timeDepositChange": 0,
+      "certificateOfDepositChange": 0,
+      "notePayableChange": 0
+    },
+    {
+      "teamId": 4,
+      "roundNumber": 2,
+      "submittedAt": "2026-10-15T15:00:00Z",
+      "menu": [
+        {
+          "lineNumber": 1,
+          "itemName": "STEAK",
+          "prepLevel": 1,
+          "orderSize": 180,
+          "internalPromotion": 2900,
+          "salesPrice": 5.99
+        },
+        {
+          "lineNumber": 2,
+          "itemName": "CHICKEN",
+          "prepLevel": 1,
+          "orderSize": 175,
+          "internalPromotion": 2800,
+          "salesPrice": 4.99
+        },
+        {
+          "lineNumber": 3,
+          "itemName": "PASTA",
+          "prepLevel": 1,
+          "orderSize": 180,
+          "internalPromotion": 3000,
+          "salesPrice": 4.99
+        },
+        {
+          "lineNumber": 4,
+          "itemName": "SHRIMP",
+          "prepLevel": 1,
+          "orderSize": 180,
+          "internalPromotion": 3300,
+          "salesPrice": 6.49
+        },
+        {
+          "lineNumber": 5,
+          "itemName": "BEER",
+          "prepLevel": 1,
+          "orderSize": 36,
+          "internalPromotion": 1100,
+          "salesPrice": 2.7
+        },
+        {
+          "lineNumber": 6,
+          "itemName": "WINE",
+          "prepLevel": 1,
+          "orderSize": 15,
+          "internalPromotion": 500,
+          "salesPrice": 3.75
+        }
+      ],
+      "staffPerDay": 28,
+      "hourlyCompensation": 10.25,
+      "amenitiesPerOrder": 0.28,
+      "entertainmentBudget": 6500,
+      "maintenanceBudget": 20000,
+      "reportFlags": [
+        0,
+        0,
+        0
+      ],
+      "timeDepositChange": 0,
+      "certificateOfDepositChange": 0,
+      "notePayableChange": 0
+    },
+    {
+      "teamId": 5,
+      "roundNumber": 2,
+      "submittedAt": "2026-10-15T15:00:00Z",
+      "menu": [
+        {
+          "lineNumber": 1,
+          "itemName": "STEAK",
+          "prepLevel": 2,
+          "orderSize": 225,
+          "internalPromotion": 2400,
+          "salesPrice": 12.5
+        },
+        {
+          "lineNumber": 2,
+          "itemName": "CHICKEN",
+          "prepLevel": 2,
+          "orderSize": 200,
+          "internalPromotion": 2500,
+          "salesPrice": 10.5
+        },
+        {
+          "lineNumber": 3,
+          "itemName": "PASTA",
+          "prepLevel": 2,
+          "orderSize": 185,
+          "internalPromotion": 2500,
+          "salesPrice": 9.5
+        },
+        {
+          "lineNumber": 4,
+          "itemName": "SHRIMP",
+          "prepLevel": 2,
+          "orderSize": 200,
+          "internalPromotion": 2250,
+          "salesPrice": 8.95
+        },
+        {
+          "lineNumber": 5,
+          "itemName": "WINE",
+          "prepLevel": 2,
+          "orderSize": 15,
+          "internalPromotion": 800,
+          "salesPrice": 6
+        },
+        {
+          "lineNumber": 6,
+          "itemName": "SPIRITS",
+          "prepLevel": 2,
+          "orderSize": 4,
+          "internalPromotion": 800,
+          "salesPrice": 4.75
+        }
+      ],
+      "staffPerDay": 29,
+      "hourlyCompensation": 14,
+      "amenitiesPerOrder": 0.57,
+      "entertainmentBudget": 7500,
+      "maintenanceBudget": 18000,
+      "reportFlags": [
+        0,
+        0,
+        0
+      ],
+      "timeDepositChange": 0,
+      "certificateOfDepositChange": 0,
+      "notePayableChange": 0
+    },
+    {
+      "teamId": 1,
+      "roundNumber": 3,
+      "submittedAt": null,
+      "menu": [
+        {
+          "lineNumber": 1,
+          "itemName": "STEAK",
+          "prepLevel": 3,
+          "orderSize": 180,
+          "internalPromotion": 500,
+          "salesPrice": 24.96
+        },
+        {
+          "lineNumber": 2,
+          "itemName": "SALAD BOWL",
+          "prepLevel": 3,
+          "orderSize": 190,
+          "internalPromotion": 1500,
+          "salesPrice": 17.5
+        },
+        {
+          "lineNumber": 3,
+          "itemName": "CHICKEN",
+          "prepLevel": 3,
+          "orderSize": 170,
+          "internalPromotion": 1750,
+          "salesPrice": 21.75
+        },
+        {
+          "lineNumber": 4,
+          "itemName": "PASTA",
+          "prepLevel": 3,
+          "orderSize": 180,
+          "internalPromotion": 1500,
+          "salesPrice": 18.95
+        },
+        {
+          "lineNumber": 5,
+          "itemName": "VEAL",
+          "prepLevel": 3,
+          "orderSize": 185,
+          "internalPromotion": 1500,
+          "salesPrice": 30
+        },
+        {
+          "lineNumber": 6,
+          "itemName": "WINE",
+          "prepLevel": 3,
+          "orderSize": 15,
+          "internalPromotion": 1250,
+          "salesPrice": 14
+        },
+        {
+          "lineNumber": 7,
+          "itemName": "BEER",
+          "prepLevel": 3,
+          "orderSize": 36,
+          "internalPromotion": 1500,
+          "salesPrice": 8.5
+        },
+        {
+          "lineNumber": 8,
+          "itemName": "SPIRITS",
+          "prepLevel": 3,
+          "orderSize": 4,
+          "internalPromotion": 1000,
+          "salesPrice": 13
+        }
+      ],
+      "staffPerDay": 29,
+      "hourlyCompensation": 16.75,
+      "amenitiesPerOrder": 1.5,
+      "entertainmentBudget": 12500,
+      "maintenanceBudget": 15500,
+      "reportFlags": [
+        1,
+        0,
+        0
+      ],
+      "timeDepositChange": 0,
+      "certificateOfDepositChange": 0,
+      "notePayableChange": 0
+    },
+    {
+      "teamId": 2,
+      "roundNumber": 3,
+      "submittedAt": "2026-10-15T15:00:00Z",
+      "menu": [
+        {
+          "lineNumber": 1,
+          "itemName": "STEAK",
+          "prepLevel": 1,
+          "orderSize": 180,
+          "internalPromotion": 2000,
+          "salesPrice": 6.5
+        },
+        {
+          "lineNumber": 2,
+          "itemName": "STEAK",
+          "prepLevel": 2,
+          "orderSize": 220,
+          "internalPromotion": 2250,
+          "salesPrice": 13.49
+        },
+        {
+          "lineNumber": 3,
+          "itemName": "CHICKEN",
+          "prepLevel": 1,
+          "orderSize": 180,
+          "internalPromotion": 1850,
+          "salesPrice": 6.99
+        },
+        {
+          "lineNumber": 4,
+          "itemName": "PASTA",
+          "prepLevel": 2,
+          "orderSize": 185,
+          "internalPromotion": 2250,
+          "salesPrice": 8.49
+        },
+        {
+          "lineNumber": 5,
+          "itemName": "PIZZA",
+          "prepLevel": 1,
+          "orderSize": 240,
+          "internalPromotion": 2250,
+          "salesPrice": 7.99
+        },
+        {
+          "lineNumber": 6,
+          "itemName": "BEER",
+          "prepLevel": 2,
+          "orderSize": 36,
+          "internalPromotion": 1800,
+          "salesPrice": 4.49
+        },
+        {
+          "lineNumber": 7,
+          "itemName": "SPIRITS",
+          "prepLevel": 2,
+          "orderSize": 4,
+          "internalPromotion": 1500,
+          "salesPrice": 4.75
+        }
+      ],
+      "staffPerDay": 27,
+      "hourlyCompensation": 12.5,
+      "amenitiesPerOrder": 0.6,
+      "entertainmentBudget": 10000,
+      "maintenanceBudget": 19000,
+      "reportFlags": [
+        1,
+        0,
+        0
+      ],
+      "timeDepositChange": 0,
+      "certificateOfDepositChange": 0,
+      "notePayableChange": 0
+    },
+    {
+      "teamId": 3,
+      "roundNumber": 3,
+      "submittedAt": "2026-10-15T15:00:00Z",
+      "menu": [
+        {
+          "lineNumber": 1,
+          "itemName": "CHICKEN",
+          "prepLevel": 2,
+          "orderSize": 200,
+          "internalPromotion": 2250,
+          "salesPrice": 10
+        },
+        {
+          "lineNumber": 2,
+          "itemName": "SHRIMP",
+          "prepLevel": 1,
+          "orderSize": 200,
+          "internalPromotion": 2250,
+          "salesPrice": 9
+        },
+        {
+          "lineNumber": 3,
+          "itemName": "SALAD BOWL",
+          "prepLevel": 2,
+          "orderSize": 180,
+          "internalPromotion": 2250,
+          "salesPrice": 8
+        },
+        {
+          "lineNumber": 4,
+          "itemName": "PORK",
+          "prepLevel": 1,
+          "orderSize": 180,
+          "internalPromotion": 2250,
+          "salesPrice": 7.5
+        },
+        {
+          "lineNumber": 5,
+          "itemName": "WINE",
+          "prepLevel": 2,
+          "orderSize": 15,
+          "internalPromotion": 800,
+          "salesPrice": 6.5
+        },
+        {
+          "lineNumber": 6,
+          "itemName": "SPIRITS",
+          "prepLevel": 1,
+          "orderSize": 4,
+          "internalPromotion": 800,
+          "salesPrice": 3
+        }
+      ],
+      "staffPerDay": 28,
+      "hourlyCompensation": 12.5,
+      "amenitiesPerOrder": 0.55,
+      "entertainmentBudget": 7000,
+      "maintenanceBudget": 18000,
+      "reportFlags": [
+        0,
+        0,
+        0
+      ],
+      "timeDepositChange": 0,
+      "certificateOfDepositChange": 0,
+      "notePayableChange": 0
+    },
+    {
+      "teamId": 4,
+      "roundNumber": 3,
+      "submittedAt": "2026-10-15T15:00:00Z",
+      "menu": [
+        {
+          "lineNumber": 1,
+          "itemName": "STEAK",
+          "prepLevel": 1,
+          "orderSize": 185,
+          "internalPromotion": 3000,
+          "salesPrice": 5.99
+        },
+        {
+          "lineNumber": 2,
+          "itemName": "CHICKEN",
+          "prepLevel": 1,
+          "orderSize": 175,
+          "internalPromotion": 3000,
+          "salesPrice": 5.25
+        },
+        {
+          "lineNumber": 3,
+          "itemName": "PASTA",
+          "prepLevel": 1,
+          "orderSize": 180,
+          "internalPromotion": 3200,
+          "salesPrice": 5.25
+        },
+        {
+          "lineNumber": 4,
+          "itemName": "SHRIMP",
+          "prepLevel": 2,
+          "orderSize": 160,
+          "internalPromotion": 2800,
+          "salesPrice": 7.49
+        },
+        {
+          "lineNumber": 5,
+          "itemName": "BEER",
+          "prepLevel": 1,
+          "orderSize": 36,
+          "internalPromotion": 1200,
+          "salesPrice": 2.99
+        },
+        {
+          "lineNumber": 6,
+          "itemName": "WINE",
+          "prepLevel": 1,
+          "orderSize": 15,
+          "internalPromotion": 600,
+          "salesPrice": 3.99
+        }
+      ],
+      "staffPerDay": 25,
+      "hourlyCompensation": 10.75,
+      "amenitiesPerOrder": 0.28,
+      "entertainmentBudget": 6000,
+      "maintenanceBudget": 18000,
+      "reportFlags": [
+        1,
+        0,
+        0
+      ],
+      "timeDepositChange": 0,
+      "certificateOfDepositChange": 0,
+      "notePayableChange": 0
+    },
+    {
+      "teamId": 5,
+      "roundNumber": 3,
+      "submittedAt": null,
+      "menu": [
+        {
+          "lineNumber": 1,
+          "itemName": "STEAK",
+          "prepLevel": 2,
+          "orderSize": 225,
+          "internalPromotion": 2400,
+          "salesPrice": 13.5
+        },
+        {
+          "lineNumber": 2,
+          "itemName": "CHICKEN",
+          "prepLevel": 2,
+          "orderSize": 200,
+          "internalPromotion": 2500,
+          "salesPrice": 10.5
+        },
+        {
+          "lineNumber": 3,
+          "itemName": "PASTA",
+          "prepLevel": 2,
+          "orderSize": 185,
+          "internalPromotion": 2500,
+          "salesPrice": 10
+        },
+        {
+          "lineNumber": 4,
+          "itemName": "SHRIMP",
+          "prepLevel": 1,
+          "orderSize": 210,
+          "internalPromotion": 2250,
+          "salesPrice": 9.25
+        },
+        {
+          "lineNumber": 5,
+          "itemName": "WINE",
+          "prepLevel": 2,
+          "orderSize": 15,
+          "internalPromotion": 800,
+          "salesPrice": 6.5
+        },
+        {
+          "lineNumber": 6,
+          "itemName": "SPIRITS",
+          "prepLevel": 2,
+          "orderSize": 5,
+          "internalPromotion": 800,
+          "salesPrice": 5
+        }
+      ],
+      "staffPerDay": 29,
+      "hourlyCompensation": 15,
+      "amenitiesPerOrder": 0.58,
+      "entertainmentBudget": 8000,
+      "maintenanceBudget": 18000,
+      "reportFlags": [
+        0,
+        0,
+        0
+      ],
+      "timeDepositChange": 0,
+      "certificateOfDepositChange": 0,
+      "notePayableChange": 0
+    }
+  ],
+  "results": [
+    {
+      "teamId": 1,
+      "roundNumber": 1,
+      "foodSales": 791227,
+      "beverageSales": 191902,
+      "foodCost": 233299,
+      "beverageCost": 42201,
+      "operatingProfit": 167234,
+      "netIncome": 40126,
+      "foodOrders": 38340,
+      "avgDailyCustomerCount": 396,
+      "menu": [
+        {
+          "lineNumber": 1,
+          "itemName": "STEAK",
+          "salesPrice": 22,
+          "prepName": "Filet",
+          "orderSize": 165,
+          "internalPromotion": 1750,
+          "costOfGoodsSoldPct": 30.3,
+          "ordersSold": 9701,
+          "totalSales": 213422
+        },
+        {
+          "lineNumber": 2,
+          "itemName": "CHICKEN",
+          "salesPrice": 21,
+          "prepName": "Game Hen",
+          "orderSize": 165,
+          "internalPromotion": 1750,
+          "costOfGoodsSoldPct": 29.3,
+          "ordersSold": 10253,
+          "totalSales": 215313
+        },
+        {
+          "lineNumber": 3,
+          "itemName": "PASTA",
+          "salesPrice": 18,
+          "prepName": "Fresh",
+          "orderSize": 175,
+          "internalPromotion": 1750,
+          "costOfGoodsSoldPct": 27.1,
+          "ordersSold": 10500,
+          "totalSales": 189000
+        },
+        {
+          "lineNumber": 4,
+          "itemName": "SHRIMP",
+          "salesPrice": 22,
+          "prepName": "Fresh",
+          "orderSize": 150,
+          "internalPromotion": 1750,
+          "costOfGoodsSoldPct": 31.4,
+          "ordersSold": 7886,
+          "totalSales": 173492
+        },
+        {
+          "lineNumber": 5,
+          "itemName": "WINE",
+          "salesPrice": 7.5,
+          "prepName": "Domestic",
+          "orderSize": 15,
+          "internalPromotion": 750,
+          "costOfGoodsSoldPct": 28.4,
+          "ordersSold": 14855,
+          "totalSales": 111413
+        },
+        {
+          "lineNumber": 6,
+          "itemName": "SPIRITS",
+          "salesPrice": 6.5,
+          "prepName": "Top Shf",
+          "orderSize": 4,
+          "internalPromotion": 750,
+          "costOfGoodsSoldPct": 13.1,
+          "ordersSold": 12383,
+          "totalSales": 80490
+        }
+      ]
+    },
+    {
+      "teamId": 2,
+      "roundNumber": 1,
+      "foodSales": 745215,
+      "beverageSales": 187086,
+      "foodCost": 248342,
+      "beverageCost": 52378,
+      "operatingProfit": 150420,
+      "netIncome": 29869,
+      "foodOrders": 76554,
+      "avgDailyCustomerCount": 679,
+      "menu": [
+        {
+          "lineNumber": 1,
+          "itemName": "STEAK",
+          "salesPrice": 12.5,
+          "prepName": "Sirloin",
+          "orderSize": 225,
+          "internalPromotion": 2250,
+          "costOfGoodsSoldPct": 35.4,
+          "ordersSold": 16393,
+          "totalSales": 204913
+        },
+        {
+          "lineNumber": 2,
+          "itemName": "CHICKEN",
+          "salesPrice": 9.5,
+          "prepName": "Breast",
+          "orderSize": 200,
+          "internalPromotion": 2250,
+          "costOfGoodsSoldPct": 32.8,
+          "ordersSold": 21064,
+          "totalSales": 200108
+        },
+        {
+          "lineNumber": 3,
+          "itemName": "PASTA",
+          "salesPrice": 8.5,
+          "prepName": "Imported",
+          "orderSize": 185,
+          "internalPromotion": 2250,
+          "costOfGoodsSoldPct": 31,
+          "ordersSold": 21609,
+          "totalSales": 183677
+        },
+        {
+          "lineNumber": 4,
+          "itemName": "SHRIMP",
+          "salesPrice": 8.95,
+          "prepName": "Breaded",
+          "orderSize": 200,
+          "internalPromotion": 2250,
+          "costOfGoodsSoldPct": 33.9,
+          "ordersSold": 17488,
+          "totalSales": 156518
+        },
+        {
+          "lineNumber": 5,
+          "itemName": "WINE",
+          "salesPrice": 6,
+          "prepName": "Domestic",
+          "orderSize": 15,
+          "internalPromotion": 800,
+          "costOfGoodsSoldPct": 35.5,
+          "ordersSold": 17847,
+          "totalSales": 107082
+        },
+        {
+          "lineNumber": 6,
+          "itemName": "SPIRITS",
+          "salesPrice": 4.75,
+          "prepName": "Top Shf",
+          "orderSize": 4,
+          "internalPromotion": 800,
+          "costOfGoodsSoldPct": 18,
+          "ordersSold": 16843,
+          "totalSales": 80004
+        }
+      ]
+    },
+    {
+      "teamId": 3,
+      "roundNumber": 1,
+      "foodSales": 745215,
+      "beverageSales": 187086,
+      "foodCost": 248342,
+      "beverageCost": 52378,
+      "operatingProfit": 150420,
+      "netIncome": 29869,
+      "foodOrders": 76554,
+      "avgDailyCustomerCount": 679,
+      "menu": [
+        {
+          "lineNumber": 1,
+          "itemName": "STEAK",
+          "salesPrice": 12.5,
+          "prepName": "Sirloin",
+          "orderSize": 225,
+          "internalPromotion": 2250,
+          "costOfGoodsSoldPct": 35.4,
+          "ordersSold": 16393,
+          "totalSales": 204913
+        },
+        {
+          "lineNumber": 2,
+          "itemName": "CHICKEN",
+          "salesPrice": 9.5,
+          "prepName": "Breast",
+          "orderSize": 200,
+          "internalPromotion": 2250,
+          "costOfGoodsSoldPct": 32.8,
+          "ordersSold": 21064,
+          "totalSales": 200108
+        },
+        {
+          "lineNumber": 3,
+          "itemName": "PASTA",
+          "salesPrice": 8.5,
+          "prepName": "Imported",
+          "orderSize": 185,
+          "internalPromotion": 2250,
+          "costOfGoodsSoldPct": 31,
+          "ordersSold": 21609,
+          "totalSales": 183677
+        },
+        {
+          "lineNumber": 4,
+          "itemName": "SHRIMP",
+          "salesPrice": 8.95,
+          "prepName": "Breaded",
+          "orderSize": 200,
+          "internalPromotion": 2250,
+          "costOfGoodsSoldPct": 33.9,
+          "ordersSold": 17488,
+          "totalSales": 156518
+        },
+        {
+          "lineNumber": 5,
+          "itemName": "WINE",
+          "salesPrice": 6,
+          "prepName": "Domestic",
+          "orderSize": 15,
+          "internalPromotion": 800,
+          "costOfGoodsSoldPct": 35.5,
+          "ordersSold": 17847,
+          "totalSales": 107082
+        },
+        {
+          "lineNumber": 6,
+          "itemName": "SPIRITS",
+          "salesPrice": 4.75,
+          "prepName": "Top Shf",
+          "orderSize": 4,
+          "internalPromotion": 800,
+          "costOfGoodsSoldPct": 18,
+          "ordersSold": 16843,
+          "totalSales": 80004
+        }
+      ]
+    },
+    {
+      "teamId": 4,
+      "roundNumber": 1,
+      "foodSales": 752643,
+      "beverageSales": 200737,
+      "foodCost": 263056,
+      "beverageCost": 46867,
+      "operatingProfit": 155570,
+      "netIncome": 33010,
+      "foodOrders": 138681,
+      "avgDailyCustomerCount": 892,
+      "menu": [
+        {
+          "lineNumber": 1,
+          "itemName": "STEAK",
+          "salesPrice": 5.99,
+          "prepName": "Burger",
+          "orderSize": 185,
+          "internalPromotion": 3000,
+          "costOfGoodsSoldPct": 34.4,
+          "ordersSold": 32440,
+          "totalSales": 194316
+        },
+        {
+          "lineNumber": 2,
+          "itemName": "CHICKEN",
+          "salesPrice": 4.99,
+          "prepName": "Fingers",
+          "orderSize": 175,
+          "internalPromotion": 3000,
+          "costOfGoodsSoldPct": 33.1,
+          "ordersSold": 39432,
+          "totalSales": 196766
+        },
+        {
+          "lineNumber": 3,
+          "itemName": "PASTA",
+          "salesPrice": 4.95,
+          "prepName": "Domestic",
+          "orderSize": 180,
+          "internalPromotion": 3000,
+          "costOfGoodsSoldPct": 32.2,
+          "ordersSold": 37139,
+          "totalSales": 183838
+        },
+        {
+          "lineNumber": 4,
+          "itemName": "SHRIMP",
+          "salesPrice": 5.99,
+          "prepName": "Breaded",
+          "orderSize": 180,
+          "internalPromotion": 3000,
+          "costOfGoodsSoldPct": 40.5,
+          "ordersSold": 29670,
+          "totalSales": 177723
+        },
+        {
+          "lineNumber": 5,
+          "itemName": "BEER",
+          "salesPrice": 2.7,
+          "prepName": "Popular",
+          "orderSize": 36,
+          "internalPromotion": 1000,
+          "costOfGoodsSoldPct": 22.1,
+          "ordersSold": 39304,
+          "totalSales": 106121
+        },
+        {
+          "lineNumber": 6,
+          "itemName": "WINE",
+          "salesPrice": 3.75,
+          "prepName": "House",
+          "orderSize": 15,
+          "internalPromotion": 600,
+          "costOfGoodsSoldPct": 24.8,
+          "ordersSold": 25231,
+          "totalSales": 94616
+        }
+      ]
+    },
+    {
+      "teamId": 5,
+      "roundNumber": 1,
+      "foodSales": 745215,
+      "beverageSales": 187086,
+      "foodCost": 248342,
+      "beverageCost": 52378,
+      "operatingProfit": 150420,
+      "netIncome": 29869,
+      "foodOrders": 76554,
+      "avgDailyCustomerCount": 679,
+      "menu": [
+        {
+          "lineNumber": 1,
+          "itemName": "STEAK",
+          "salesPrice": 12.5,
+          "prepName": "Sirloin",
+          "orderSize": 225,
+          "internalPromotion": 2250,
+          "costOfGoodsSoldPct": 35.4,
+          "ordersSold": 16393,
+          "totalSales": 204913
+        },
+        {
+          "lineNumber": 2,
+          "itemName": "CHICKEN",
+          "salesPrice": 9.5,
+          "prepName": "Breast",
+          "orderSize": 200,
+          "internalPromotion": 2250,
+          "costOfGoodsSoldPct": 32.8,
+          "ordersSold": 21064,
+          "totalSales": 200108
+        },
+        {
+          "lineNumber": 3,
+          "itemName": "PASTA",
+          "salesPrice": 8.5,
+          "prepName": "Imported",
+          "orderSize": 185,
+          "internalPromotion": 2250,
+          "costOfGoodsSoldPct": 31,
+          "ordersSold": 21609,
+          "totalSales": 183677
+        },
+        {
+          "lineNumber": 4,
+          "itemName": "SHRIMP",
+          "salesPrice": 8.95,
+          "prepName": "Breaded",
+          "orderSize": 200,
+          "internalPromotion": 2250,
+          "costOfGoodsSoldPct": 33.9,
+          "ordersSold": 17488,
+          "totalSales": 156518
+        },
+        {
+          "lineNumber": 5,
+          "itemName": "WINE",
+          "salesPrice": 6,
+          "prepName": "Domestic",
+          "orderSize": 15,
+          "internalPromotion": 800,
+          "costOfGoodsSoldPct": 35.5,
+          "ordersSold": 17847,
+          "totalSales": 107082
+        },
+        {
+          "lineNumber": 6,
+          "itemName": "SPIRITS",
+          "salesPrice": 4.75,
+          "prepName": "Top Shf",
+          "orderSize": 4,
+          "internalPromotion": 800,
+          "costOfGoodsSoldPct": 18,
+          "ordersSold": 16843,
+          "totalSales": 80004
+        }
+      ]
+    },
+    {
+      "teamId": 1,
+      "roundNumber": 2,
+      "foodSales": 859189,
+      "beverageSales": 215377,
+      "foodCost": 255928,
+      "beverageCost": 41228,
+      "operatingProfit": 172477,
+      "netIncome": 43678,
+      "foodOrders": 40130,
+      "avgDailyCustomerCount": 471,
+      "menu": [
+        {
+          "lineNumber": 1,
+          "itemName": "STEAK",
+          "salesPrice": 24.95,
+          "prepName": "Filet",
+          "orderSize": 180,
+          "internalPromotion": 2000,
+          "costOfGoodsSoldPct": 29.7,
+          "ordersSold": 7284,
+          "totalSales": 181736
+        },
+        {
+          "lineNumber": 2,
+          "itemName": "SALAD BOWL",
+          "salesPrice": 17.5,
+          "prepName": "Gourmet",
+          "orderSize": 190,
+          "internalPromotion": 1000,
+          "costOfGoodsSoldPct": 26.1,
+          "ordersSold": 8535,
+          "totalSales": 149363
+        },
+        {
+          "lineNumber": 3,
+          "itemName": "CHICKEN",
+          "salesPrice": 21.75,
+          "prepName": "Game Hen",
+          "orderSize": 170,
+          "internalPromotion": 1750,
+          "costOfGoodsSoldPct": 29.2,
+          "ordersSold": 8552,
+          "totalSales": 186006
+        },
+        {
+          "lineNumber": 4,
+          "itemName": "PASTA",
+          "salesPrice": 18.95,
+          "prepName": "Fresh",
+          "orderSize": 180,
+          "internalPromotion": 1500,
+          "costOfGoodsSoldPct": 27,
+          "ordersSold": 8517,
+          "totalSales": 161397
+        },
+        {
+          "lineNumber": 5,
+          "itemName": "SHRIMP",
+          "salesPrice": 24.95,
+          "prepName": "Jumbo",
+          "orderSize": 160,
+          "internalPromotion": 1250,
+          "costOfGoodsSoldPct": 36,
+          "ordersSold": 7242,
+          "totalSales": 180688
+        },
+        {
+          "lineNumber": 6,
+          "itemName": "WINE",
+          "salesPrice": 12,
+          "prepName": "Imported",
+          "orderSize": 15,
+          "internalPromotion": 1000,
+          "costOfGoodsSoldPct": 27.8,
+          "ordersSold": 7112,
+          "totalSales": 85344
+        },
+        {
+          "lineNumber": 7,
+          "itemName": "BEER",
+          "salesPrice": 7,
+          "prepName": "Imported",
+          "orderSize": 36,
+          "internalPromotion": 750,
+          "costOfGoodsSoldPct": 13.1,
+          "ordersSold": 9481,
+          "totalSales": 66367
+        },
+        {
+          "lineNumber": 8,
+          "itemName": "SPIRITS",
+          "salesPrice": 9,
+          "prepName": "Premium",
+          "orderSize": 4,
+          "internalPromotion": 1000,
+          "costOfGoodsSoldPct": 13.9,
+          "ordersSold": 7074,
+          "totalSales": 63666
+        }
+      ]
+    },
+    {
+      "teamId": 2,
+      "roundNumber": 2,
+      "foodSales": 630581,
+      "beverageSales": 163629,
+      "foodCost": 184299,
+      "beverageCost": 28294,
+      "operatingProfit": 122491,
+      "netIncome": 13187,
+      "foodOrders": 65310,
+      "avgDailyCustomerCount": 516,
+      "menu": [
+        {
+          "lineNumber": 1,
+          "itemName": "STEAK",
+          "salesPrice": 14.5,
+          "prepName": "Sirloin",
+          "orderSize": 220,
+          "internalPromotion": 2500,
+          "costOfGoodsSoldPct": 33,
+          "ordersSold": 9366,
+          "totalSales": 135807
+        },
+        {
+          "lineNumber": 2,
+          "itemName": "STEAK",
+          "salesPrice": 9,
+          "prepName": "Burger",
+          "orderSize": 180,
+          "internalPromotion": 2200,
+          "costOfGoodsSoldPct": 27.5,
+          "ordersSold": 12372,
+          "totalSales": 111348
+        },
+        {
+          "lineNumber": 3,
+          "itemName": "CHICKEN",
+          "salesPrice": 8.5,
+          "prepName": "Fingers",
+          "orderSize": 170,
+          "internalPromotion": 2000,
+          "costOfGoodsSoldPct": 25.3,
+          "ordersSold": 13893,
+          "totalSales": 118091
+        },
+        {
+          "lineNumber": 4,
+          "itemName": "PASTA",
+          "salesPrice": 8.5,
+          "prepName": "Imported",
+          "orderSize": 180,
+          "internalPromotion": 1850,
+          "costOfGoodsSoldPct": 31.4,
+          "ordersSold": 16615,
+          "totalSales": 141228
+        },
+        {
+          "lineNumber": 5,
+          "itemName": "PIZZA",
+          "salesPrice": 9.5,
+          "prepName": "Frozen",
+          "orderSize": 250,
+          "internalPromotion": 1900,
+          "costOfGoodsSoldPct": 27.9,
+          "ordersSold": 13064,
+          "totalSales": 124108
+        },
+        {
+          "lineNumber": 6,
+          "itemName": "BEER",
+          "salesPrice": 4,
+          "prepName": "Premium",
+          "orderSize": 36,
+          "internalPromotion": 1500,
+          "costOfGoodsSoldPct": 18.9,
+          "ordersSold": 15721,
+          "totalSales": 62884
+        },
+        {
+          "lineNumber": 7,
+          "itemName": "SPIRITS",
+          "salesPrice": 5,
+          "prepName": "Top Shf",
+          "orderSize": 4,
+          "internalPromotion": 1000,
+          "costOfGoodsSoldPct": 17.1,
+          "ordersSold": 10320,
+          "totalSales": 51600
+        },
+        {
+          "lineNumber": 8,
+          "itemName": "WINE",
+          "salesPrice": 5,
+          "prepName": "House",
+          "orderSize": 12.5,
+          "internalPromotion": 850,
+          "costOfGoodsSoldPct": 15.5,
+          "ordersSold": 9829,
+          "totalSales": 49145
+        }
+      ]
+    },
+    {
+      "teamId": 3,
+      "roundNumber": 2,
+      "foodSales": 690593,
+      "beverageSales": 121130,
+      "foodCost": 222497,
+      "beverageCost": 17187,
+      "operatingProfit": 110067,
+      "netIncome": 5330,
+      "foodOrders": 62718,
+      "avgDailyCustomerCount": 548,
+      "menu": [
+        {
+          "lineNumber": 1,
+          "itemName": "CHICKEN",
+          "salesPrice": 10,
+          "prepName": "Breast",
+          "orderSize": 200,
+          "internalPromotion": 2000,
+          "costOfGoodsSoldPct": 32.7,
+          "ordersSold": 15701,
+          "totalSales": 157010
+        },
+        {
+          "lineNumber": 2,
+          "itemName": "FIN FISH",
+          "salesPrice": 15,
+          "prepName": "Fresh",
+          "orderSize": 250,
+          "internalPromotion": 2000,
+          "costOfGoodsSoldPct": 37.5,
+          "ordersSold": 9977,
+          "totalSales": 149655
+        },
+        {
+          "lineNumber": 3,
+          "itemName": "SHRIMP",
+          "salesPrice": 22,
+          "prepName": "Fresh",
+          "orderSize": 150,
+          "internalPromotion": 2000,
+          "costOfGoodsSoldPct": 32.1,
+          "ordersSold": 5277,
+          "totalSales": 116094
+        },
+        {
+          "lineNumber": 4,
+          "itemName": "SALAD BOWL",
+          "salesPrice": 8,
+          "prepName": "Self Sv",
+          "orderSize": 180,
+          "internalPromotion": 2000,
+          "costOfGoodsSoldPct": 31.1,
+          "ordersSold": 18033,
+          "totalSales": 144264
+        },
+        {
+          "lineNumber": 5,
+          "itemName": "PORK",
+          "salesPrice": 9,
+          "prepName": "BBQ",
+          "orderSize": 200,
+          "internalPromotion": 2000,
+          "costOfGoodsSoldPct": 26.6,
+          "ordersSold": 13730,
+          "totalSales": 123570
+        },
+        {
+          "lineNumber": 6,
+          "itemName": "BEER",
+          "salesPrice": 10,
+          "prepName": "Imported",
+          "orderSize": 15,
+          "internalPromotion": 800,
+          "costOfGoodsSoldPct": 3.8,
+          "ordersSold": 4935,
+          "totalSales": 49350
+        },
+        {
+          "lineNumber": 7,
+          "itemName": "SPIRITS",
+          "salesPrice": 5,
+          "prepName": "Top Shf",
+          "orderSize": 5,
+          "internalPromotion": 800,
+          "costOfGoodsSoldPct": 21.3,
+          "ordersSold": 14356,
+          "totalSales": 71780
+        }
+      ]
+    },
+    {
+      "teamId": 4,
+      "roundNumber": 2,
+      "foodSales": 661647,
+      "beverageSales": 172433,
+      "foodCost": 229169,
+      "beverageCost": 40218,
+      "operatingProfit": 155365,
+      "netIncome": 33240,
+      "foodOrders": 119840,
+      "avgDailyCustomerCount": 766,
+      "menu": [
+        {
+          "lineNumber": 1,
+          "itemName": "STEAK",
+          "salesPrice": 5.99,
+          "prepName": "Burger",
+          "orderSize": 180,
+          "internalPromotion": 2900,
+          "costOfGoodsSoldPct": 33.8,
+          "ordersSold": 28578,
+          "totalSales": 171182
+        },
+        {
+          "lineNumber": 2,
+          "itemName": "CHICKEN",
+          "salesPrice": 4.99,
+          "prepName": "Fingers",
+          "orderSize": 175,
+          "internalPromotion": 2800,
+          "costOfGoodsSoldPct": 33.1,
+          "ordersSold": 35109,
+          "totalSales": 175194
+        },
+        {
+          "lineNumber": 3,
+          "itemName": "PASTA",
+          "salesPrice": 4.99,
+          "prepName": "Domestic",
+          "orderSize": 180,
+          "internalPromotion": 3000,
+          "costOfGoodsSoldPct": 32.2,
+          "ordersSold": 32775,
+          "totalSales": 163547
+        },
+        {
+          "lineNumber": 4,
+          "itemName": "SHRIMP",
+          "salesPrice": 6.49,
+          "prepName": "Breaded",
+          "orderSize": 180,
+          "internalPromotion": 3300,
+          "costOfGoodsSoldPct": 39.9,
+          "ordersSold": 23378,
+          "totalSales": 151723
+        },
+        {
+          "lineNumber": 5,
+          "itemName": "BEER",
+          "salesPrice": 2.7,
+          "prepName": "Popular",
+          "orderSize": 36,
+          "internalPromotion": 1100,
+          "costOfGoodsSoldPct": 22.1,
+          "ordersSold": 34314,
+          "totalSales": 92648
+        },
+        {
+          "lineNumber": 6,
+          "itemName": "WINE",
+          "salesPrice": 3.75,
+          "prepName": "House",
+          "orderSize": 15,
+          "internalPromotion": 500,
+          "costOfGoodsSoldPct": 24.8,
+          "ordersSold": 21276,
+          "totalSales": 79785
+        }
+      ]
+    },
+    {
+      "teamId": 5,
+      "roundNumber": 2,
+      "foodSales": 858094,
+      "beverageSales": 205720,
+      "foodCost": 395925,
+      "beverageCost": 57595,
+      "operatingProfit": 81438,
+      "netIncome": -16438,
+      "foodOrders": 85301,
+      "avgDailyCustomerCount": 800,
+      "menu": [
+        {
+          "lineNumber": 1,
+          "itemName": "STEAK",
+          "salesPrice": 12.5,
+          "prepName": "Sirloin",
+          "orderSize": 225,
+          "internalPromotion": 2400,
+          "costOfGoodsSoldPct": 36.3,
+          "ordersSold": 16029,
+          "totalSales": 200363
+        },
+        {
+          "lineNumber": 2,
+          "itemName": "CHICKEN",
+          "salesPrice": 10.5,
+          "prepName": "Breast",
+          "orderSize": 200,
+          "internalPromotion": 2500,
+          "costOfGoodsSoldPct": 31.9,
+          "ordersSold": 17937,
+          "totalSales": 188339
+        },
+        {
+          "lineNumber": 3,
+          "itemName": "PASTA",
+          "salesPrice": 9.5,
+          "prepName": "Imported",
+          "orderSize": 185,
+          "internalPromotion": 2500,
+          "costOfGoodsSoldPct": 30.1,
+          "ordersSold": 18081,
+          "totalSales": 171770
+        },
+        {
+          "lineNumber": 4,
+          "itemName": "SHRIMP",
+          "salesPrice": 8.95,
+          "prepName": "Fresh",
+          "orderSize": 200,
+          "internalPromotion": 2250,
+          "costOfGoodsSoldPct": 71.1,
+          "ordersSold": 33254,
+          "totalSales": 297623
+        },
+        {
+          "lineNumber": 5,
+          "itemName": "WINE",
+          "salesPrice": 6,
+          "prepName": "Domestic",
+          "orderSize": 15,
+          "internalPromotion": 800,
+          "costOfGoodsSoldPct": 35.5,
+          "ordersSold": 19625,
+          "totalSales": 117750
+        },
+        {
+          "lineNumber": 6,
+          "itemName": "SPIRITS",
+          "salesPrice": 4.75,
+          "prepName": "Top Shf",
+          "orderSize": 4,
+          "internalPromotion": 800,
+          "costOfGoodsSoldPct": 18,
+          "ordersSold": 18520,
+          "totalSales": 87970
+        }
+      ]
+    }
+  ],
+  "studio": {
+    "title": "Scrumptious",
+    "projectNote": "One shared app, five areas of ownership. Build the foundation together, then use small pull requests to keep main working.",
+    "owners": [
+      {
+        "name": "Kylie",
+        "area": "Results & dashboard",
+        "branch": "kylie/results-dashboard",
+        "scope": "Results screens, comparisons, ratios, chart accessibility, and integration across the app."
+      },
+      {
+        "name": "Sarah",
+        "area": "Student decisions",
+        "branch": "sarah/student-decisions",
+        "scope": "Shared design system, student forms, validation feedback, and responsive layouts."
+      },
+      {
+        "name": "Kalynn",
+        "area": "Database",
+        "branch": "kalynn/database",
+        "scope": "Relational model, migrations, constraints, team/round keys, and data contracts."
+      },
+      {
+        "name": "Tahj",
+        "area": "RFI generator",
+        "branch": "tahj/rfi-generator",
+        "scope": "Validated decisions to fixed-width RFI files, fixture tests, and file downloads."
+      },
+      {
+        "name": "Cole",
+        "area": "FR.LST import",
+        "branch": "cole/frlst-import",
+        "scope": "Parse engine output, validate firm and period matches, and store results for release."
+      }
+    ],
+    "colors": {
+      "primary": "#E0A94F",
+      "background": "#FFFFFF",
+      "text": "#1F3A2A",
+      "card": "#FCEDE4",
+      "alert": "#D98B62"
+    },
+    "architecture": [
+      {
+        "id": "ADR-01",
+        "title": "One app with two role-specific experiences",
+        "status": "Accepted",
+        "rationale": "Students enter and review decisions. Professors manage submissions, prepare files, import output, and release results. Shared components keep both sides consistent.",
+        "consequence": "The role selector previews screens. It does not grant a real professor role. Verified student/professor permissions remain a production task."
+      },
+      {
+        "id": "ADR-02",
+        "title": "Keep the FORTRAN engine external",
+        "status": "Accepted",
+        "rationale": "The existing engine is the source of simulation outcomes. The app modernizes decisions, file preparation, and results without rewriting simulation formulas.",
+        "consequence": "The professor downloads RFI files, runs FORTRAN manually, and imports the original FR.LST. There is no Run simulation button."
+      },
+      {
+        "id": "ADR-03",
+        "title": "Preserve fixed-width files with tested templates",
+        "status": "Accepted",
+        "rationale": "The supplied RFI examples include control fields whose meanings are not fully documented. Change only mapped fields and preserve reserved data, spacing, and original line endings.",
+        "consequence": "Unedited decisions must reproduce all 30 supplied RFI examples byte for byte. Report flag names and business ranges need instructor confirmation."
+      },
+      {
+        "id": "ADR-04",
+        "title": "Identify menu selections by line number",
+        "status": "Proposed",
+        "rationale": "Firm 2 in Q2 offers STEAK twice, once as Sirloin and once as Burger. A key based only on menu item would discard one valid choice.",
+        "consequence": "Use (TeamID, RoundNumber, LineNumber) for menu decisions and results. Separate imported outcomes from editable decisions."
+      },
+      {
+        "id": "ADR-05",
+        "title": "Persist the prototype in a shared D1 workspace",
+        "status": "Accepted",
+        "rationale": "Decisions, released results, design tokens, and planning notes need to survive reloads and appear across devices. D1 stores an atomic snapshot with an optimistic revision check.",
+        "consequence": "The snapshot is the current runtime. The normalized SQL model is the proposed next step for the database area. Stale saves return a conflict instead of overwriting a newer edit."
+      },
+      {
+        "id": "ADR-06",
+        "title": "Use desktop-first forms with four focused parts",
+        "status": "Accepted",
+        "rationale": "Teams compare prices, portions, staffing, and budgets on laptops. Four parts group related decisions and show completion without crowding the home screen.",
+        "consequence": "Menu, Staffing, Amenities & upkeep, and Management info share one draft. Users can jump directly to a part, then review the full strategy before submitting."
+      }
+    ]
+  }
+}

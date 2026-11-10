@@ -1,0 +1,25 @@
+
+
+
+                  Firm 1                                                            LS        B1
+STEAK                           Filet               3     175.0      1750     24.95     0.000         0
+SALAD BOWL                      Gourmet             3     175.0      1750     17.50     0.000         0
+CHICKEN                         Game Hen            3     175.0      1750     21.25     0.000         0
+PASTA                           Fresh               3     170.0      1750     18.50     0.000         0
+VEAL                            Chop                3     180.0      2000     28.15     0.000         0
+FIN FISH                        Imported            3     175.0      1850     24.00     0.000         0
+WINE                            Imported            3      15.0      1500     12.00     0.000         0
+BEER                            Imported            3      36.0      2000      7.25     0.000         0
+                                                                                        0.000
+                                                                                        0.000
+Management                                        1.5       0.0       0.0         0         0         0         0         0         0         0
+Supervisory                                       1.0       0.0       0.0         0         0         0         0         0         0         0
+Service                                          10.0       0.0       0.0         0         0
+Support                                           9.0       0.0       0.0         0         0
+Operations                                       27.0     16.50      1.50     13000     16000         1         1         0         0     12000
+Finance                                            +0        +0        +0         0         0         0         0         0
+Assets - Investments                                0         0
+       - Leases                                     0         0
+       - Borrowings                                 0         0
+Variances                                           0         0
+

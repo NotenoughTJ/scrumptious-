@@ -1,0 +1,25 @@
+
+
+
+                  Firm 2                                                            LS        B1
+STEAK                           Burger              1     185.0      2500      9.55     0.000         0
+STEAK                           Sirloin             2     220.0      2750     14.99     0.000         0
+CHICKEN                         Breast              2     200.0      2750     10.20     0.000         0
+PASTA                           Imported            2     190.0      2500      9.20     0.000         0
+PIZZA                           Fresh               2     275.0      2500     11.99     0.000         0
+BEER                            Premium             2      36.0      1500      4.00     0.000         0
+SPIRITS                         Top Shf             2       4.0      1500      4.50     0.000         0
+                                                                                        0.000
+                                                                                        0.000
+                                                                                        0.000
+Management                                        1.5       0.0       0.0         0         0         0         0         0         0         0
+Supervisory                                       1.0       0.0       0.0         0         0         0         0         0         0         0
+Service                                          10.0       0.0       0.0         0         0
+Support                                           9.0       0.0       0.0         0         0
+Operations                                       25.0     12.50      0.60     15000     19000         0         0         0         0     12000
+Finance                                            +0        +0        +0         0         0         0         0         0
+Assets - Investments                                0         0
+       - Leases                                     0         0
+       - Borrowings                                 0         0
+Variances                                           0         0
+

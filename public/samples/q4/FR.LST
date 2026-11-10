@@ -1,0 +1,890 @@
+ Administrator's  Summary;                       ENTR 4010 - Foodservice Intrapreneurship                       Period  4
+ 
+ Market Area ME                                      Economic Index  .99                                Autumn Quarter  
+            
+ 
+ 
+                                             Market Area Index Values including all firms:
+ 
+             Price       Pur.& Prep  Order Size  Int.Promo.  S.P.Costs   Amenities   Raw Value   Menu Pref.  No.Selects  Service    
+  Food         .89        1.07         .79         .80         .89        1.05         .88        1.18        1.25         .88      
+  Beverage     .92        1.00        1.79         .56         .00         .97         .97         .97         .90         .88      
+ 
+ 
+             P&P * A&P   Music & E   R & M       A & G       Advts'g     Staff*OSize TQE / P&P.  F & Fixt    F&B Equip   Building   
+  Food        1.02         .98        1.12        1.00         .97         .67        1.01         .94         .94        1.00      
+  Beverage     .56         .98        1.12        1.00         .54        1.56        1.03         .94         .94        1.00      
+ 
+ 
+                                                  Market Area Effective Values                 
+                                                       Food         .76
+                                                       Beverage     .82
+ 
+                                     ********    THE FINANCIAL INFORMATION SERVICE    ********                           
+                                        A Confidential Survey prepared by financial analysts                             
+ 
+                                    Total    Orders     Food      Gross      Food    Operating  Net Income               
+                            FIRM    Sales     Sold      Sales     Profit     Cost%     Profit   after  tax               
+                         Firm 1   1034387.    36926.   816115.   747987.     29.5     169851.      42824.
+                         Firm 2    810747.    60329.   644254.   571965.     32.2     134685.      21372.
+                         Firm 3    833813.    67344.   667147.   563009.     32.4     118555.      10884.
+                         Firm 4    701610.    96602.   555249.   493546.     31.4     126061.      16112.
+                         Firm 5    829226.    66958.   659445.   565603.     32.8     112641.       5845.
+1***********************************************************************************************************************
+  C O R N E L L     R E S T A U R A N T     A D M I N I S T R A T I O N     S I M U L A T I O N     E X E R C I S E
+                                           ENTR 4010 - Foodservice Intrapreneurship                  
+***********************************************************************************************************************
+      Firm  1                                                Firm 1                                       Period  4
+ Market Area ME                                      Economic Index  .99                                Autumn Quarter  
+    SALES                                                        *   ASSETS                          
+       Food Sales                 816115.               78.90    *     Current Assets                
+       Beverage Sales             218272.               21.10    *       Cash on hand                   214654.
+          Total Sales                      1034387.    100.00    *       Time Deposits 3%                37500.
+                                                                 *       Cert. of deposit, 5%(6MOS)          0.
+    COST OF SALES                                                *       Other current assets                0.
+       Food Cost                  240648.               29.49    *       Accounts Rec. (net)             58585.
+       Beverage cost               45752.               20.96    *       Inventories                     26671.
+          Total costs                      -286400.    -27.69    *       Affiliate Receivable                0.
+                                                                 *         Total Current Assets                  337409.
+    GROSS PROFIT on Sales                   747987.     72.31    *                                   
+                                                                 *     Investments                   
+    CONTROLLABLE EXPENSES                                        *       Subsidary Companies                 0.
+       Payroll                    324324.               31.35    *         Total Investments                          0.
+       Employee benefits           68108.                6.58    *     Building & Equip.(Book value) 
+       Direct Operating            55389.                5.35    *       Furniture & Fixtures           237200.
+       Music & Entertainment       12500.                1.21    *       Equipment                       24840.
+       Repairs & Maintenance       15500.                1.50    *       Building & Improvements        632400.
+       Admin. & General            56404.                5.45    *       Land                           450000.
+       Advertising & Promo.        13350.                1.29    *       Franchise Agreement                 0.
+       Utilities                   32560.                3.15    *       Leased Property                210000.
+       Franchise Fees                  0.                 .00    *                                   
+          Total Cont. Exp.                 -578136.    -55.89    *         Total Property                       1554440.
+                                                                 *                                   
+    OPERATING PROFIT                        169851.     16.42    *   TOTAL ASSETS                               1891849.
+                                                                 *                                   
+    Occupation Costs                                             *   LIABILITIES & EQUITY            
+       Property Tax                18830.                1.82    *     Current Liabilities           
+       Rentals & misc.                 0.                 .00    *       Accounts Payable                18669.
+       Liquor Lic. Fee              4500.                 .44    *       Notes Payable, 13%              90000.
+       Insurance                   17105.                1.65    *       Line of Credit, 15%                 0.
+       Amortization                 7500.                 .73    *       Mortgage-Current portion        60984.
+       Interest - Long term        35695.                3.45    *       Lease - Current portion         24815.
+       Depreciation                20240.                1.96    *       Affiliate Payable                   0.
+          Total Occup. Cost                -103870.    -10.04    *         Total Current Liab.                   194469.
+                                                                 *                                   
+    Other Income or Expense                                      *     Long Term Debt                
+       Extraordinary Inc/Exp           0.                 .00    *       Mortgage                       876724.
+       Interest - Short term       -2644.                -.26    *       Capitalized Leases             194789.
+                                                                 *         Total Long Term Liab.                1071513.
+                                                                 *                                   
+          Total Other I/E                    -2644.      -.26    *     STOCKHOLDERS' EQUITY          
+                                                                 *       Common Stock @ 10 Par          300000.
+    Profit Before Income Tax                 63337.      6.12    *       Additional Paid in Capital     150000.
+                                                                 *       Retained Earnings/Deficit      175868.
+    Income Tax                     20514.                1.98    *         Total Equity                          625868.
+                                                                 *                                   
+    NET INCOME or LOSS                       42824.      4.14    *   TOTAL LIAB.& STOCKHOLDER EQUITY            1891849.
+ 
+           Employees   Compensation  Service Amenities  Food    Food Sales   Bevg.Sales    Avg. Daily                    
+            per Day   & Training/Hr.     per Order     Orders   per  Order   per Order   Customer Count                  
+              27.0        16.50            1.50        36926.     22.10         5.91          421.
+1
+     Selection        Sales    Purchase      Order      Internal        Cost per       Cost of      Orders     Total     
+                      Price     & Prep.      Size        Promotion  unit of purchase  Goods Sold    Sold       Sales     
+     STEAK            24.95    Filet      175.0 Gm.        1750.       20.31 Kg.         29.2 %      5593.    139545.
+     SALAD BOWL       17.00    Gourmet    175.0 Gm.        1500.       10.58 Kg.         25.9 %      6943.    118031.
+     CHICKEN          21.75    Game Hen   170.0 Gm.        1750.       18.19 Kg.         29.2 %      6703.    145790.
+     PASTA            18.95    Fresh      165.0 Gm.        1500.       12.74 Kg.         26.1 %      6461.    122436.
+     VEAL             28.00    Chop       175.0 Gm.        2000.       28.66 Kg.         32.9 %      5222.    146216.
+     FIN FISH         24.00    Imported   170.0 Gm.        1850.       24.49 Kg.         32.3 %      6004.    144096.
+     WINE             12.00    Imported    15.0 Cl.        1500.       16.65 Btl.        27.8 %     10021.    120252.
+     BEER              7.25    Imported    36.0 Cl.        1500.       21.98 Cs.         12.6 %     13520.     98020.
+ 
+ 
+                   Utilization of furniture and fixtures is almost at peak capacity, market for foods.      
+ 
+ Firm  1          ==                                       Firm 1                                  ==    Autumn Quarter  
+ 
+   Item    Purchase  &  Preparation  Forecast  Information      Item    Purchase  &  Preparation  Forecast  Information  
+            Units     -- 1 --       -- 2 --       -- 3 --               Units     -- 1 --       -- 2 --       -- 3 --    
+ STEAK       Kg.  6.56 Burger  12.69 Sirloin 20.09 Filet     FIN FISH    Kg.  6.68 Portion 13.16 Fresh   25.36 Imported
+ ROAST BEEF  Kg.  6.30 Sandwich 9.19 Sirloin 14.28 Rib Eye   SHRIMP      Kg. 10.25 Breaded 26.90 Fresh   31.99 Jumbo   
+ CHICKEN     Kg.  5.32 Fingers  9.73 Breast  18.01 Game Hen  SALAD BOWL  Kg.  3.97 Prepack  7.52 Self Sv 10.64 Gourmet 
+ VEAL        Kg.  7.45 Pattie  11.90 Cutlet  29.29 Chop      PORK        Kg.  5.24 BBQ      7.30 Ribs    13.07 Loin    
+ PASTA       Kg.  4.82 Domestic 8.52 Imported12.67 Fresh     PIZZA       Kg.  4.86 Frozen   7.30 Fresh   10.06 Gourmet 
+ BEER        Cs. 14.29 Popular 18.13 Premium 21.98 Imported  SPIRITS     Ltr. 9.98 Well    21.32 Top Shf 31.32 Premium 
+ WINE        Btl. 4.65 House   10.65 Domestic16.65 Imported  
+ 
+                          Area information service companies have the following reports available:                       
+                          2500. for consumer satisfaction         3500. for financial comparison     
+ 
+              ********  A  Comparative  Guide  to  Dining  Selections  in  the  Marketplace  ********                    
+   Firm  1 -                       Firm 1                      Firm  2 -                       Firm 2                    
+ 123. Seats  STEAK           Filet    175.0  Gm.  24.95      123. Seats  STEAK           Burger   185.0  Gm.   9.49      
+             SALAD BOWL      Gourmet  175.0  Gm.  17.00                  STEAK           Sirloin  220.0  Gm.  14.50      
+             CHICKEN         Game Hen 170.0  Gm.  21.75                  CHICKEN         Breast   200.0  Gm.   9.95      
+             PASTA           Fresh    165.0  Gm.  18.95                  PASTA           Imported 190.0  Gm.   8.99      
+             VEAL            Chop     175.0  Gm.  28.00                  PIZZA           Fresh    275.0  Gm.  11.99      
+             FIN FISH        Imported 170.0  Gm.  24.00                  BEER            Premium   36.0  Cl.   4.00      
+             WINE            Imported  15.0  Cl.  12.00                  SPIRITS         Top Shf    4.0  Cl.   4.50      
+             BEER            Imported  36.0  Cl.   7.25      
+   Firm  3 -                       Firm 3                      Firm  4 -                       Firm 4                    
+ 123. Seats  CHICKEN         Breast   215.0  Gm.  10.00      123. Seats  STEAK           Burger   160.0  Gm.   5.99      
+             SHRIMP          Breaded  190.0  Gm.  11.00                  CHICKEN         Fingers  175.0  Gm.   5.15      
+             SALAD BOWL      Self Sv  190.0  Gm.   8.50                  PASTA           Domestic 180.0  Gm.   5.15      
+             PORK            BBQ      180.0  Gm.   8.00                  PORK            Ribs     130.0  Gm.   7.30      
+             ROAST BEEF      Rib Eye  180.0  Gm.  13.00                  BEER            Popular   36.0  Cl.   2.79      
+             WINE            Domestic  15.0  Cl.   6.50                  WINE            House     15.0  Cl.   3.79      
+   Firm  5 -                       Firm 5                    
+ 123. Seats  STEAK           Sirloin  225.0  Gm.  13.50  
+             CHICKEN         Breast   190.0  Gm.  10.50      
+             PASTA           Imported 175.0  Gm.  10.00      
+             SHRIMP          Breaded  200.0  Gm.   9.25      
+             PIZZA           Frozen   240.0  Gm.   7.50      
+             WINE            Domestic  15.0  Cl.   6.50      
+             SPIRITS         Top Shf    5.0  Cl.   5.00      
+ 
+                                                                                                                         
+                    *********     Year-to-date Summary of Operating and Financial Results     *********                  
+ 
+                   Total        Total     Avg. Food   Average         Total    Total Operating Net Income                
+         Firm      Sales      Customers    Check     Food Cost     Gross Profit     Profit       After Tax   Firm        
+           1      4173804.      160638.     20.80        29.4 %       3028578.      690556.       175868.       1
+           2      3405664.      221393.     12.27        31.7 %       2403138.      548444.        89179.       2
+           3      3444355.      223645.     12.50        32.5 %       2369145.      509959.        64716.       3
+           4      3349689.      276221.      9.68        37.1 %       2204254.      546632.        88075.       4
+           5      3839403.      248019.     12.37        36.8 %       2495006.      482765.        44793.       5
+1***********************************************************************************************************************
+  C O R N E L L     R E S T A U R A N T     A D M I N I S T R A T I O N     S I M U L A T I O N     E X E R C I S E
+                                           ENTR 4010 - Foodservice Intrapreneurship                  
+***********************************************************************************************************************
+      Firm  2                                                Firm 2                                       Period  4
+ Market Area ME                                      Economic Index  .99                                Autumn Quarter  
+    SALES                                                        *   ASSETS                          
+       Food Sales                 644254.               79.46    *     Current Assets                
+       Beverage Sales             166493.               20.54    *       Cash on hand                   158540.
+          Total Sales                       810747.    100.00    *       Time Deposits 3%                37500.
+                                                                 *       Cert. of deposit, 5%(6MOS)          0.
+    COST OF SALES                                                *       Other current assets                0.
+       Food Cost                  207288.               32.17    *       Accounts Rec. (net)             29979.
+       Beverage cost               31494.               18.92    *       Inventories                     20108.
+          Total costs                      -238782.    -29.45    *       Affiliate Receivable                0.
+                                                                 *         Total Current Assets                  246127.
+    GROSS PROFIT on Sales                   571965.     70.55    *                                   
+                                                                 *     Investments                   
+    CONTROLLABLE EXPENSES                                        *       Subsidary Companies                 0.
+       Payroll                    227500.               28.06    *         Total Investments                          0.
+       Employee benefits           47775.                5.89    *     Building & Equip.(Book value) 
+       Direct Operating            36197.                4.46    *       Furniture & Fixtures           237200.
+       Music & Entertainment       10000.                1.23    *       Equipment                       24840.
+       Repairs & Maintenance       19000.                2.34    *       Building & Improvements        632400.
+       Admin. & General            52681.                6.50    *       Land                           450000.
+       Advertising & Promo.        14250.                1.76    *       Franchise Agreement                 0.
+       Utilities                   29876.                3.69    *       Leased Property                210000.
+       Franchise Fees                  0.                 .00    *                                   
+          Total Cont. Exp.                 -437280.    -53.94    *         Total Property                       1554440.
+                                                                 *                                   
+    OPERATING PROFIT                        134685.     16.61    *   TOTAL ASSETS                               1800567.
+                                                                 *                                   
+    Occupation Costs                                             *   LIABILITIES & EQUITY            
+       Property Tax                18830.                2.32    *     Current Liabilities           
+       Rentals & misc.                 0.                 .00    *       Accounts Payable                14075.
+       Liquor Lic. Fee              4500.                 .56    *       Notes Payable, 13%              90000.
+       Insurance                   17105.                2.11    *       Line of Credit, 15%                 0.
+       Amortization                 7500.                 .93    *       Mortgage-Current portion        60984.
+       Interest - Long term        35695.                4.40    *       Lease - Current portion         24815.
+       Depreciation                20240.                2.50    *       Affiliate Payable                   0.
+          Total Occup. Cost                -103870.    -12.81    *         Total Current Liab.                   189875.
+                                                                 *                                   
+    Other Income or Expense                                      *     Long Term Debt                
+       Extraordinary Inc/Exp           0.                 .00    *       Mortgage                       876724.
+       Interest - Short term       -2644.                -.33    *       Capitalized Leases             194789.
+                                                                 *         Total Long Term Liab.                1071513.
+                                                                 *                                   
+          Total Other I/E                    -2644.      -.33    *     STOCKHOLDERS' EQUITY          
+                                                                 *       Common Stock @ 10 Par          300000.
+    Profit Before Income Tax                 28171.      3.47    *       Additional Paid in Capital     150000.
+                                                                 *       Retained Earnings/Deficit       89179.
+    Income Tax                      6799.                 .84    *         Total Equity                          539179.
+                                                                 *                                   
+    NET INCOME or LOSS                       21372.      2.64    *   TOTAL LIAB.& STOCKHOLDER EQUITY            1800567.
+ 
+           Employees   Compensation  Service Amenities  Food    Food Sales   Bevg.Sales    Avg. Daily                    
+            per Day   & Training/Hr.     per Order     Orders   per  Order   per Order   Customer Count                  
+              25.0        12.50             .60        60329.     10.68         2.76          575.
+1
+     Selection        Sales    Purchase      Order      Internal        Cost per       Cost of      Orders     Total     
+                      Price     & Prep.      Size        Promotion  unit of purchase  Goods Sold    Sold       Sales     
+     STEAK             9.49    Burger     185.0 Gm.        1500.        6.50 Kg.         27.7 %     10747.    101989.
+     STEAK            14.50    Sirloin    220.0 Gm.        2500.       12.50 Kg.         34.0 %      8589.    124541.
+     CHICKEN           9.95    Breast     200.0 Gm.        2750.        9.40 Kg.         33.9 %     14532.    144593.
+     PASTA             8.99    Imported   190.0 Gm.        2000.        8.30 Kg.         32.5 %     14712.    132261.
+     PIZZA            11.99    Fresh      275.0 Gm.        2500.        7.30 Kg.         31.7 %     11749.    140871.
+     BEER              4.00    Premium     36.0 Cl.        1500.       18.13 Cs.         18.9 %     22110.     88440.
+     SPIRITS           4.50    Top Shf      4.0 Cl.        1500.       21.32 Ltr.        19.0 %     17345.     78053.
+ 
+ Firm  2          ==                                       Firm 2                                  ==    Autumn Quarter  
+ 
+   Item    Purchase  &  Preparation  Forecast  Information      Item    Purchase  &  Preparation  Forecast  Information  
+            Units     -- 1 --       -- 2 --       -- 3 --               Units     -- 1 --       -- 2 --       -- 3 --    
+ STEAK       Kg.  6.56 Burger  12.69 Sirloin 20.09 Filet     FIN FISH    Kg.  6.68 Portion 13.16 Fresh   25.36 Imported
+ ROAST BEEF  Kg.  6.30 Sandwich 9.19 Sirloin 14.28 Rib Eye   SHRIMP      Kg. 10.25 Breaded 26.90 Fresh   31.99 Jumbo   
+ CHICKEN     Kg.  5.32 Fingers  9.73 Breast  18.01 Game Hen  SALAD BOWL  Kg.  3.97 Prepack  7.52 Self Sv 10.64 Gourmet 
+ VEAL        Kg.  7.45 Pattie  11.90 Cutlet  29.29 Chop      PORK        Kg.  5.24 BBQ      7.30 Ribs    13.07 Loin    
+ PASTA       Kg.  4.82 Domestic 8.52 Imported12.67 Fresh     PIZZA       Kg.  4.86 Frozen   7.30 Fresh   10.06 Gourmet 
+ BEER        Cs. 14.29 Popular 18.13 Premium 21.98 Imported  SPIRITS     Ltr. 9.98 Well    21.32 Top Shf 31.32 Premium 
+ WINE        Btl. 4.65 House   10.65 Domestic16.65 Imported  
+ 
+                          Area information service companies have the following reports available:                       
+                          2500. for consumer satisfaction         3500. for financial comparison     
+ 
+              ********  A  Comparative  Guide  to  Dining  Selections  in  the  Marketplace  ********                    
+   Firm  1 -                       Firm 1                      Firm  2 -                       Firm 2                    
+ 123. Seats  STEAK           Filet    175.0  Gm.  24.95      123. Seats  STEAK           Burger   185.0  Gm.   9.49      
+             SALAD BOWL      Gourmet  175.0  Gm.  17.00                  STEAK           Sirloin  220.0  Gm.  14.50      
+             CHICKEN         Game Hen 170.0  Gm.  21.75                  CHICKEN         Breast   200.0  Gm.   9.95      
+             PASTA           Fresh    165.0  Gm.  18.95                  PASTA           Imported 190.0  Gm.   8.99      
+             VEAL            Chop     175.0  Gm.  28.00                  PIZZA           Fresh    275.0  Gm.  11.99      
+             FIN FISH        Imported 170.0  Gm.  24.00                  BEER            Premium   36.0  Cl.   4.00      
+             WINE            Imported  15.0  Cl.  12.00                  SPIRITS         Top Shf    4.0  Cl.   4.50      
+             BEER            Imported  36.0  Cl.   7.25      
+   Firm  3 -                       Firm 3                      Firm  4 -                       Firm 4                    
+ 123. Seats  CHICKEN         Breast   215.0  Gm.  10.00      123. Seats  STEAK           Burger   160.0  Gm.   5.99      
+             SHRIMP          Breaded  190.0  Gm.  11.00                  CHICKEN         Fingers  175.0  Gm.   5.15      
+             SALAD BOWL      Self Sv  190.0  Gm.   8.50                  PASTA           Domestic 180.0  Gm.   5.15      
+             PORK            BBQ      180.0  Gm.   8.00                  PORK            Ribs     130.0  Gm.   7.30      
+             ROAST BEEF      Rib Eye  180.0  Gm.  13.00                  BEER            Popular   36.0  Cl.   2.79      
+             WINE            Domestic  15.0  Cl.   6.50                  WINE            House     15.0  Cl.   3.79      
+   Firm  5 -                       Firm 5                    
+ 123. Seats  STEAK           Sirloin  225.0  Gm.  13.50  
+             CHICKEN         Breast   190.0  Gm.  10.50      
+             PASTA           Imported 175.0  Gm.  10.00      
+             SHRIMP          Breaded  200.0  Gm.   9.25      
+             PIZZA           Frozen   240.0  Gm.   7.50      
+             WINE            Domestic  15.0  Cl.   6.50      
+             SPIRITS         Top Shf    5.0  Cl.   5.00      
+ 
+                                                                                                                         
+                    *********     Year-to-date Summary of Operating and Financial Results     *********                  
+ 
+                   Total        Total     Avg. Food   Average         Total    Total Operating Net Income                
+         Firm      Sales      Customers    Check     Food Cost     Gross Profit     Profit       After Tax   Firm        
+           1      4173804.      160638.     20.80        29.4 %       3028578.      690556.       175868.       1
+           2      3405664.      221393.     12.27        31.7 %       2403138.      548444.        89179.       2
+           3      3444355.      223645.     12.50        32.5 %       2369145.      509959.        64716.       3
+           4      3349689.      276221.      9.68        37.1 %       2204254.      546632.        88075.       4
+           5      3839403.      248019.     12.37        36.8 %       2495006.      482765.        44793.       5
+1***********************************************************************************************************************
+  C O R N E L L     R E S T A U R A N T     A D M I N I S T R A T I O N     S I M U L A T I O N     E X E R C I S E
+                                           ENTR 4010 - Foodservice Intrapreneurship                  
+***********************************************************************************************************************
+      Firm  3                                                Firm 3                                       Period  4
+ Market Area ME                                      Economic Index  .99                                Autumn Quarter  
+    SALES                                                        *   ASSETS                          
+       Food Sales                 667147.               80.01    *     Current Assets                
+       Beverage Sales             166667.               19.99    *       Cash on hand                   133100.
+          Total Sales                       833813.    100.00    *       Time Deposits 3%                37500.
+                                                                 *       Cert. of deposit, 5%(6MOS)          0.
+    COST OF SALES                                                *       Other current assets                0.
+       Food Cost                  216188.               32.40    *       Accounts Rec. (net)             30324.
+       Beverage cost               54615.               32.77    *       Inventories                     22217.
+          Total costs                      -270804.    -32.48    *       Affiliate Receivable                0.
+                                                                 *         Total Current Assets                  223141.
+    GROSS PROFIT on Sales                   563009.     67.52    *                                   
+                                                                 *     Investments                   
+    CONTROLLABLE EXPENSES                                        *       Subsidary Companies                 0.
+       Payroll                    209300.               25.10    *         Total Investments                          0.
+       Employee benefits           43953.                5.27    *     Building & Equip.(Book value) 
+       Direct Operating            67344.                8.08    *       Furniture & Fixtures           237200.
+       Music & Entertainment        7000.                 .84    *       Equipment                       24840.
+       Repairs & Maintenance       18000.                2.16    *       Building & Improvements        632400.
+       Admin. & General            55204.                6.62    *       Land                           450000.
+       Advertising & Promo.        13500.                1.62    *       Franchise Agreement                 0.
+       Utilities                   30153.                3.62    *       Leased Property                210000.
+       Franchise Fees                  0.                 .00    *                                   
+          Total Cont. Exp.                 -444454.    -53.30    *         Total Property                       1554440.
+                                                                 *                                   
+    OPERATING PROFIT                        118555.     14.22    *   TOTAL ASSETS                               1777581.
+                                                                 *                                   
+    Occupation Costs                                             *   LIABILITIES & EQUITY            
+       Property Tax                18830.                2.26    *     Current Liabilities           
+       Rentals & misc.                 0.                 .00    *       Accounts Payable                15552.
+       Liquor Lic. Fee              4500.                 .54    *       Notes Payable, 13%              90000.
+       Insurance                   17105.                2.05    *       Line of Credit, 15%                 0.
+       Amortization                 7500.                 .90    *       Mortgage-Current portion        60984.
+       Interest - Long term        35695.                4.28    *       Lease - Current portion         24815.
+       Depreciation                20240.                2.43    *       Affiliate Payable                   0.
+          Total Occup. Cost                -103870.    -12.46    *         Total Current Liab.                   191351.
+                                                                 *                                   
+    Other Income or Expense                                      *     Long Term Debt                
+       Extraordinary Inc/Exp           0.                 .00    *       Mortgage                       876724.
+       Interest - Short term       -2644.                -.32    *       Capitalized Leases             194789.
+                                                                 *         Total Long Term Liab.                1071513.
+                                                                 *                                   
+          Total Other I/E                    -2644.      -.32    *     STOCKHOLDERS' EQUITY          
+                                                                 *       Common Stock @ 10 Par          300000.
+    Profit Before Income Tax                 12041.      1.44    *       Additional Paid in Capital     150000.
+                                                                 *       Retained Earnings/Deficit       64716.
+    Income Tax                      1157.                 .14    *         Total Equity                          514717.
+                                                                 *                                   
+    NET INCOME or LOSS                       10884.      1.31    *   TOTAL LIAB.& STOCKHOLDER EQUITY            1777581.
+ 
+           Employees   Compensation  Service Amenities  Food    Food Sales   Bevg.Sales    Avg. Daily                    
+            per Day   & Training/Hr.     per Order     Orders   per  Order   per Order   Customer Count                  
+              23.0        12.50            1.00        67344.      9.91         2.47          598.
+1
+     Selection        Sales    Purchase      Order      Internal        Cost per       Cost of      Orders     Total     
+                      Price     & Prep.      Size        Promotion  unit of purchase  Goods Sold    Sold       Sales     
+     CHICKEN          10.00    Breast     215.0 Gm.        2500.        9.40 Kg.         35.2 %     15104.    151040.
+     SHRIMP           11.00    Breaded    190.0 Gm.        2500.        9.79 Kg.         31.9 %      9260.    101860.
+     SALAD BOWL        8.50    Self Sv    190.0 Gm.        2500.        7.43 Kg.         31.6 %     15753.    133901.
+     PORK              8.00    BBQ        180.0 Gm.        2500.        5.26 Kg.         26.8 %     14721.    117768.
+     ROAST BEEF       13.00    Rib Eye    180.0 Gm.        2500.       14.30 Kg.         34.8 %     12506.    162578.
+     WINE              6.50    Domestic    15.0 Cl.        1000.       10.65 Btl.        32.8 %     25641.    166667.
+ 
+ Firm  3          ==                                       Firm 3                                  ==    Autumn Quarter  
+ 
+   Item    Purchase  &  Preparation  Forecast  Information      Item    Purchase  &  Preparation  Forecast  Information  
+            Units     -- 1 --       -- 2 --       -- 3 --               Units     -- 1 --       -- 2 --       -- 3 --    
+ STEAK       Kg.  6.56 Burger  12.69 Sirloin 20.09 Filet     FIN FISH    Kg.  6.68 Portion 13.16 Fresh   25.36 Imported
+ ROAST BEEF  Kg.  6.30 Sandwich 9.19 Sirloin 14.28 Rib Eye   SHRIMP      Kg. 10.25 Breaded 26.90 Fresh   31.99 Jumbo   
+ CHICKEN     Kg.  5.32 Fingers  9.73 Breast  18.01 Game Hen  SALAD BOWL  Kg.  3.97 Prepack  7.52 Self Sv 10.64 Gourmet 
+ VEAL        Kg.  7.45 Pattie  11.90 Cutlet  29.29 Chop      PORK        Kg.  5.24 BBQ      7.30 Ribs    13.07 Loin    
+ PASTA       Kg.  4.82 Domestic 8.52 Imported12.67 Fresh     PIZZA       Kg.  4.86 Frozen   7.30 Fresh   10.06 Gourmet 
+ BEER        Cs. 14.29 Popular 18.13 Premium 21.98 Imported  SPIRITS     Ltr. 9.98 Well    21.32 Top Shf 31.32 Premium 
+ WINE        Btl. 4.65 House   10.65 Domestic16.65 Imported  
+ 
+                          Area information service companies have the following reports available:                       
+                          2500. for consumer satisfaction         3500. for financial comparison     
+ 
+              ********  A  Comparative  Guide  to  Dining  Selections  in  the  Marketplace  ********                    
+   Firm  1 -                       Firm 1                      Firm  2 -                       Firm 2                    
+ 123. Seats  STEAK           Filet    175.0  Gm.  24.95      123. Seats  STEAK           Burger   185.0  Gm.   9.49      
+             SALAD BOWL      Gourmet  175.0  Gm.  17.00                  STEAK           Sirloin  220.0  Gm.  14.50      
+             CHICKEN         Game Hen 170.0  Gm.  21.75                  CHICKEN         Breast   200.0  Gm.   9.95      
+             PASTA           Fresh    165.0  Gm.  18.95                  PASTA           Imported 190.0  Gm.   8.99      
+             VEAL            Chop     175.0  Gm.  28.00                  PIZZA           Fresh    275.0  Gm.  11.99      
+             FIN FISH        Imported 170.0  Gm.  24.00                  BEER            Premium   36.0  Cl.   4.00      
+             WINE            Imported  15.0  Cl.  12.00                  SPIRITS         Top Shf    4.0  Cl.   4.50      
+             BEER            Imported  36.0  Cl.   7.25      
+   Firm  3 -                       Firm 3                      Firm  4 -                       Firm 4                    
+ 123. Seats  CHICKEN         Breast   215.0  Gm.  10.00      123. Seats  STEAK           Burger   160.0  Gm.   5.99      
+             SHRIMP          Breaded  190.0  Gm.  11.00                  CHICKEN         Fingers  175.0  Gm.   5.15      
+             SALAD BOWL      Self Sv  190.0  Gm.   8.50                  PASTA           Domestic 180.0  Gm.   5.15      
+             PORK            BBQ      180.0  Gm.   8.00                  PORK            Ribs     130.0  Gm.   7.30      
+             ROAST BEEF      Rib Eye  180.0  Gm.  13.00                  BEER            Popular   36.0  Cl.   2.79      
+             WINE            Domestic  15.0  Cl.   6.50                  WINE            House     15.0  Cl.   3.79      
+   Firm  5 -                       Firm 5                    
+ 123. Seats  STEAK           Sirloin  225.0  Gm.  13.50  
+             CHICKEN         Breast   190.0  Gm.  10.50      
+             PASTA           Imported 175.0  Gm.  10.00      
+             SHRIMP          Breaded  200.0  Gm.   9.25      
+             PIZZA           Frozen   240.0  Gm.   7.50      
+             WINE            Domestic  15.0  Cl.   6.50      
+             SPIRITS         Top Shf    5.0  Cl.   5.00      
+ 
+                                                                                                                         
+                    *********     Year-to-date Summary of Operating and Financial Results     *********                  
+ 
+                   Total        Total     Avg. Food   Average         Total    Total Operating Net Income                
+         Firm      Sales      Customers    Check     Food Cost     Gross Profit     Profit       After Tax   Firm        
+           1      4173804.      160638.     20.80        29.4 %       3028578.      690556.       175868.       1
+           2      3405664.      221393.     12.27        31.7 %       2403138.      548444.        89179.       2
+           3      3444355.      223645.     12.50        32.5 %       2369145.      509959.        64716.       3
+           4      3349689.      276221.      9.68        37.1 %       2204254.      546632.        88075.       4
+           5      3839403.      248019.     12.37        36.8 %       2495006.      482765.        44793.       5
+1***********************************************************************************************************************
+  C O R N E L L     R E S T A U R A N T     A D M I N I S T R A T I O N     S I M U L A T I O N     E X E R C I S E
+                                           ENTR 4010 - Foodservice Intrapreneurship                  
+***********************************************************************************************************************
+      Firm  4                                                Firm 4                                       Period  4
+ Market Area ME                                      Economic Index  .99                                Autumn Quarter  
+    SALES                                                        *   ASSETS                          
+       Food Sales                 555249.               79.14    *     Current Assets                
+       Beverage Sales             146361.               20.86    *       Cash on hand                   171676.
+          Total Sales                       701610.    100.00    *       Time Deposits 3%                37500.
+                                                                 *       Cert. of deposit, 5%(6MOS)          0.
+    COST OF SALES                                                *       Other current assets                0.
+       Food Cost                  174597.               31.44    *       Accounts Rec. (net)             16338.
+       Beverage cost               33467.               22.87    *       Inventories                     18111.
+          Total costs                      -208064.    -29.66    *       Affiliate Receivable                0.
+                                                                 *         Total Current Assets                  243625.
+    GROSS PROFIT on Sales                   493546.     70.34    *                                   
+                                                                 *     Investments                   
+    CONTROLLABLE EXPENSES                                        *       Subsidary Companies                 0.
+       Payroll                    179998.               25.66    *         Total Investments                          0.
+       Employee benefits           37800.                5.39    *     Building & Equip.(Book value) 
+       Direct Operating            27049.                3.86    *       Furniture & Fixtures           237200.
+       Music & Entertainment        6000.                 .86    *       Equipment                       24840.
+       Repairs & Maintenance       18000.                2.57    *       Building & Improvements        632400.
+       Admin. & General            55072.                7.85    *       Land                           450000.
+       Advertising & Promo.        15000.                2.14    *       Franchise Agreement                 0.
+       Utilities                   28567.                4.07    *       Leased Property                210000.
+       Franchise Fees                  0.                 .00    *                                   
+          Total Cont. Exp.                 -367484.    -52.38    *         Total Property                       1554440.
+                                                                 *                                   
+    OPERATING PROFIT                        126061.     17.97    *   TOTAL ASSETS                               1798065.
+                                                                 *                                   
+    Occupation Costs                                             *   LIABILITIES & EQUITY            
+       Property Tax                18830.                2.68    *     Current Liabilities           
+       Rentals & misc.                 0.                 .00    *       Accounts Payable                12678.
+       Liquor Lic. Fee              4500.                 .64    *       Notes Payable, 13%              90000.
+       Insurance                   17105.                2.44    *       Line of Credit, 15%                 0.
+       Amortization                 7500.                1.07    *       Mortgage-Current portion        60984.
+       Interest - Long term        35695.                5.09    *       Lease - Current portion         24815.
+       Depreciation                20240.                2.88    *       Affiliate Payable                   0.
+          Total Occup. Cost                -103870.    -14.80    *         Total Current Liab.                   188477.
+                                                                 *                                   
+    Other Income or Expense                                      *     Long Term Debt                
+       Extraordinary Inc/Exp           0.                 .00    *       Mortgage                       876724.
+       Interest - Short term       -2644.                -.38    *       Capitalized Leases             194789.
+                                                                 *         Total Long Term Liab.                1071513.
+                                                                 *                                   
+          Total Other I/E                    -2644.      -.38    *     STOCKHOLDERS' EQUITY          
+                                                                 *       Common Stock @ 10 Par          300000.
+    Profit Before Income Tax                 19547.      2.79    *       Additional Paid in Capital     150000.
+                                                                 *       Retained Earnings/Deficit       88075.
+    Income Tax                      3436.                 .49    *         Total Equity                          538075.
+                                                                 *                                   
+    NET INCOME or LOSS                       16112.      2.30    *   TOTAL LIAB.& STOCKHOLDER EQUITY            1798065.
+ 
+           Employees   Compensation  Service Amenities  Food    Food Sales   Bevg.Sales    Avg. Daily                    
+            per Day   & Training/Hr.     per Order     Orders   per  Order   per Order   Customer Count                  
+              23.0        10.75             .28        96602.      5.75         1.52          594.
+1
+     Selection        Sales    Purchase      Order      Internal        Cost per       Cost of      Orders     Total     
+                      Price     & Prep.      Size        Promotion  unit of purchase  Goods Sold    Sold       Sales     
+     STEAK             5.99    Burger     160.0 Gm.        2500.        6.50 Kg.         32.4 %     22981.    137656.
+     CHICKEN           5.15    Fingers    175.0 Gm.        3500.        5.37 Kg.         33.2 %     28828.    148464.
+     PASTA             5.15    Domestic   180.0 Gm.        3500.        4.82 Kg.         31.8 %     26912.    138597.
+     PORK              7.30    Ribs       130.0 Gm.        3500.        7.30 Kg.         28.0 %     17881.    130531.
+     BEER              2.79    Popular     36.0 Cl.        1200.       14.29 Cs.         21.3 %     27437.     76549.
+     WINE              3.79    House       15.0 Cl.         800.        4.65 Btl.        24.5 %     18420.     69812.
+ 
+ Firm  4          ==                                       Firm 4                                  ==    Autumn Quarter  
+ 
+   Item    Purchase  &  Preparation  Forecast  Information      Item    Purchase  &  Preparation  Forecast  Information  
+            Units     -- 1 --       -- 2 --       -- 3 --               Units     -- 1 --       -- 2 --       -- 3 --    
+ STEAK       Kg.  6.56 Burger  12.69 Sirloin 20.09 Filet     FIN FISH    Kg.  6.68 Portion 13.16 Fresh   25.36 Imported
+ ROAST BEEF  Kg.  6.30 Sandwich 9.19 Sirloin 14.28 Rib Eye   SHRIMP      Kg. 10.25 Breaded 26.90 Fresh   31.99 Jumbo   
+ CHICKEN     Kg.  5.32 Fingers  9.73 Breast  18.01 Game Hen  SALAD BOWL  Kg.  3.97 Prepack  7.52 Self Sv 10.64 Gourmet 
+ VEAL        Kg.  7.45 Pattie  11.90 Cutlet  29.29 Chop      PORK        Kg.  5.24 BBQ      7.30 Ribs    13.07 Loin    
+ PASTA       Kg.  4.82 Domestic 8.52 Imported12.67 Fresh     PIZZA       Kg.  4.86 Frozen   7.30 Fresh   10.06 Gourmet 
+ BEER        Cs. 14.29 Popular 18.13 Premium 21.98 Imported  SPIRITS     Ltr. 9.98 Well    21.32 Top Shf 31.32 Premium 
+ WINE        Btl. 4.65 House   10.65 Domestic16.65 Imported  
+ 
+                          Area information service companies have the following reports available:                       
+                          2500. for consumer satisfaction         3500. for financial comparison     
+ 
+              ********  A  Comparative  Guide  to  Dining  Selections  in  the  Marketplace  ********                    
+   Firm  1 -                       Firm 1                      Firm  2 -                       Firm 2                    
+ 123. Seats  STEAK           Filet    175.0  Gm.  24.95      123. Seats  STEAK           Burger   185.0  Gm.   9.49      
+             SALAD BOWL      Gourmet  175.0  Gm.  17.00                  STEAK           Sirloin  220.0  Gm.  14.50      
+             CHICKEN         Game Hen 170.0  Gm.  21.75                  CHICKEN         Breast   200.0  Gm.   9.95      
+             PASTA           Fresh    165.0  Gm.  18.95                  PASTA           Imported 190.0  Gm.   8.99      
+             VEAL            Chop     175.0  Gm.  28.00                  PIZZA           Fresh    275.0  Gm.  11.99      
+             FIN FISH        Imported 170.0  Gm.  24.00                  BEER            Premium   36.0  Cl.   4.00      
+             WINE            Imported  15.0  Cl.  12.00                  SPIRITS         Top Shf    4.0  Cl.   4.50      
+             BEER            Imported  36.0  Cl.   7.25      
+   Firm  3 -                       Firm 3                      Firm  4 -                       Firm 4                    
+ 123. Seats  CHICKEN         Breast   215.0  Gm.  10.00      123. Seats  STEAK           Burger   160.0  Gm.   5.99      
+             SHRIMP          Breaded  190.0  Gm.  11.00                  CHICKEN         Fingers  175.0  Gm.   5.15      
+             SALAD BOWL      Self Sv  190.0  Gm.   8.50                  PASTA           Domestic 180.0  Gm.   5.15      
+             PORK            BBQ      180.0  Gm.   8.00                  PORK            Ribs     130.0  Gm.   7.30      
+             ROAST BEEF      Rib Eye  180.0  Gm.  13.00                  BEER            Popular   36.0  Cl.   2.79      
+             WINE            Domestic  15.0  Cl.   6.50                  WINE            House     15.0  Cl.   3.79      
+   Firm  5 -                       Firm 5                    
+ 123. Seats  STEAK           Sirloin  225.0  Gm.  13.50  
+             CHICKEN         Breast   190.0  Gm.  10.50      
+             PASTA           Imported 175.0  Gm.  10.00      
+             SHRIMP          Breaded  200.0  Gm.   9.25      
+             PIZZA           Frozen   240.0  Gm.   7.50      
+             WINE            Domestic  15.0  Cl.   6.50      
+             SPIRITS         Top Shf    5.0  Cl.   5.00      
+ 
+                                                                                                                         
+                    *********     Year-to-date Summary of Operating and Financial Results     *********                  
+ 
+                   Total        Total     Avg. Food   Average         Total    Total Operating Net Income                
+         Firm      Sales      Customers    Check     Food Cost     Gross Profit     Profit       After Tax   Firm        
+           1      4173804.      160638.     20.80        29.4 %       3028578.      690556.       175868.       1
+           2      3405664.      221393.     12.27        31.7 %       2403138.      548444.        89179.       2
+           3      3444355.      223645.     12.50        32.5 %       2369145.      509959.        64716.       3
+           4      3349689.      276221.      9.68        37.1 %       2204254.      546632.        88075.       4
+           5      3839403.      248019.     12.37        36.8 %       2495006.      482765.        44793.       5
+1***********************************************************************************************************************
+  C O R N E L L     R E S T A U R A N T     A D M I N I S T R A T I O N     S I M U L A T I O N     E X E R C I S E
+                                           ENTR 4010 - Foodservice Intrapreneurship                  
+***********************************************************************************************************************
+      Firm  5                                                Firm 5                                       Period  4
+ Market Area ME                                      Economic Index  .99                                Autumn Quarter  
+    SALES                                                        *   ASSETS                          
+       Food Sales                 659445.               79.53    *     Current Assets                
+       Beverage Sales             169781.               20.47    *       Cash on hand                   112754.
+          Total Sales                       829226.    100.00    *       Time Deposits 3%                37500.
+                                                                 *       Cert. of deposit, 5%(6MOS)          0.
+    COST OF SALES                                                *       Other current assets                0.
+       Food Cost                  216601.               32.85    *       Accounts Rec. (net)             30290.
+       Beverage cost               47021.               27.70    *       Inventories                     23738.
+          Total costs                      -263622.    -31.79    *       Affiliate Receivable                0.
+                                                                 *         Total Current Assets                  204282.
+    GROSS PROFIT on Sales                   565603.     68.21    *                                   
+                                                                 *     Investments                   
+    CONTROLLABLE EXPENSES                                        *       Subsidary Companies                 0.
+       Payroll                    240240.               28.97    *         Total Investments                          0.
+       Employee benefits           50450.                6.08    *     Building & Equip.(Book value) 
+       Direct Operating            40175.                4.84    *       Furniture & Fixtures           237200.
+       Music & Entertainment        8500.                1.03    *       Equipment                       24840.
+       Repairs & Maintenance       18000.                2.17    *       Building & Improvements        632400.
+       Admin. & General            52699.                6.36    *       Land                           450000.
+       Advertising & Promo.        12800.                1.54    *       Franchise Agreement                 0.
+       Utilities                   30098.                3.63    *       Leased Property                210000.
+       Franchise Fees                  0.                 .00    *                                   
+          Total Cont. Exp.                 -452963.    -54.62    *         Total Property                       1554440.
+                                                                 *                                   
+    OPERATING PROFIT                        112641.     13.58    *   TOTAL ASSETS                               1758722.
+                                                                 *                                   
+    Occupation Costs                                             *   LIABILITIES & EQUITY            
+       Property Tax                18830.                2.27    *     Current Liabilities           
+       Rentals & misc.                 0.                 .00    *       Accounts Payable                16616.
+       Liquor Lic. Fee              4500.                 .54    *       Notes Payable, 13%              90000.
+       Insurance                   17105.                2.06    *       Line of Credit, 15%                 0.
+       Amortization                 7500.                 .90    *       Mortgage-Current portion        60984.
+       Interest - Long term        35695.                4.30    *       Lease - Current portion         24815.
+       Depreciation                20240.                2.44    *       Affiliate Payable                   0.
+          Total Occup. Cost                -103870.    -12.53    *         Total Current Liab.                   192416.
+                                                                 *                                   
+    Other Income or Expense                                      *     Long Term Debt                
+       Extraordinary Inc/Exp           0.                 .00    *       Mortgage                       876724.
+       Interest - Short term       -2644.                -.32    *       Capitalized Leases             194789.
+                                                                 *         Total Long Term Liab.                1071513.
+                                                                 *                                   
+          Total Other I/E                    -2644.      -.32    *     STOCKHOLDERS' EQUITY          
+                                                                 *       Common Stock @ 10 Par          300000.
+    Profit Before Income Tax                  6127.       .74    *       Additional Paid in Capital     150000.
+                                                                 *       Retained Earnings/Deficit       44793.
+    Income Tax                       281.                 .03    *         Total Equity                          494793.
+                                                                 *                                   
+    NET INCOME or LOSS                        5845.       .70    *   TOTAL LIAB.& STOCKHOLDER EQUITY            1758722.
+ 
+           Employees   Compensation  Service Amenities  Food    Food Sales   Bevg.Sales    Avg. Daily                    
+            per Day   & Training/Hr.     per Order     Orders   per  Order   per Order   Customer Count                  
+              22.0        15.00             .60        66958.      9.85         2.54          575.
+1
+     Selection        Sales    Purchase      Order      Internal        Cost per       Cost of      Orders     Total     
+                      Price     & Prep.      Size        Promotion  unit of purchase  Goods Sold    Sold       Sales     
+     STEAK            13.50    Sirloin    225.0 Gm.        2600.       12.50 Kg.         35.8 %     10921.    147434.
+     CHICKEN          10.50    Breast     190.0 Gm.        2000.        9.40 Kg.         32.0 %     13031.    136826.
+     PASTA            10.00    Imported   175.0 Gm.        2000.        8.30 Kg.         29.5 %     12218.    122180.
+     SHRIMP            9.25    Breaded    200.0 Gm.        2000.        9.79 Kg.         36.2 %     12626.    116791.
+     PIZZA             7.50    Frozen     240.0 Gm.        2600.        4.87 Kg.         30.6 %     18162.    136215.
+     WINE              6.50    Domestic    15.0 Cl.         800.       10.65 Btl.        32.8 %     14544.     94536.
+     SPIRITS           5.00    Top Shf      5.0 Cl.         800.       21.32 Ltr.        21.3 %     15049.     75245.
+ 
+ Firm  5          ==                                       Firm 5                                  ==    Autumn Quarter  
+ 
+   Item    Purchase  &  Preparation  Forecast  Information      Item    Purchase  &  Preparation  Forecast  Information  
+            Units     -- 1 --       -- 2 --       -- 3 --               Units     -- 1 --       -- 2 --       -- 3 --    
+ STEAK       Kg.  6.56 Burger  12.69 Sirloin 20.09 Filet     FIN FISH    Kg.  6.68 Portion 13.16 Fresh   25.36 Imported
+ ROAST BEEF  Kg.  6.30 Sandwich 9.19 Sirloin 14.28 Rib Eye   SHRIMP      Kg. 10.25 Breaded 26.90 Fresh   31.99 Jumbo   
+ CHICKEN     Kg.  5.32 Fingers  9.73 Breast  18.01 Game Hen  SALAD BOWL  Kg.  3.97 Prepack  7.52 Self Sv 10.64 Gourmet 
+ VEAL        Kg.  7.45 Pattie  11.90 Cutlet  29.29 Chop      PORK        Kg.  5.24 BBQ      7.30 Ribs    13.07 Loin    
+ PASTA       Kg.  4.82 Domestic 8.52 Imported12.67 Fresh     PIZZA       Kg.  4.86 Frozen   7.30 Fresh   10.06 Gourmet 
+ BEER        Cs. 14.29 Popular 18.13 Premium 21.98 Imported  SPIRITS     Ltr. 9.98 Well    21.32 Top Shf 31.32 Premium 
+ WINE        Btl. 4.65 House   10.65 Domestic16.65 Imported  
+ 
+                          Area information service companies have the following reports available:                       
+                          2500. for consumer satisfaction         3500. for financial comparison     
+ 
+              ********  A  Comparative  Guide  to  Dining  Selections  in  the  Marketplace  ********                    
+   Firm  1 -                       Firm 1                      Firm  2 -                       Firm 2                    
+ 123. Seats  STEAK           Filet    175.0  Gm.  24.95      123. Seats  STEAK           Burger   185.0  Gm.   9.49      
+             SALAD BOWL      Gourmet  175.0  Gm.  17.00                  STEAK           Sirloin  220.0  Gm.  14.50      
+             CHICKEN         Game Hen 170.0  Gm.  21.75                  CHICKEN         Breast   200.0  Gm.   9.95      
+             PASTA           Fresh    165.0  Gm.  18.95                  PASTA           Imported 190.0  Gm.   8.99      
+             VEAL            Chop     175.0  Gm.  28.00                  PIZZA           Fresh    275.0  Gm.  11.99      
+             FIN FISH        Imported 170.0  Gm.  24.00                  BEER            Premium   36.0  Cl.   4.00      
+             WINE            Imported  15.0  Cl.  12.00                  SPIRITS         Top Shf    4.0  Cl.   4.50      
+             BEER            Imported  36.0  Cl.   7.25      
+   Firm  3 -                       Firm 3                      Firm  4 -                       Firm 4                    
+ 123. Seats  CHICKEN         Breast   215.0  Gm.  10.00      123. Seats  STEAK           Burger   160.0  Gm.   5.99      
+             SHRIMP          Breaded  190.0  Gm.  11.00                  CHICKEN         Fingers  175.0  Gm.   5.15      
+             SALAD BOWL      Self Sv  190.0  Gm.   8.50                  PASTA           Domestic 180.0  Gm.   5.15      
+             PORK            BBQ      180.0  Gm.   8.00                  PORK            Ribs     130.0  Gm.   7.30      
+             ROAST BEEF      Rib Eye  180.0  Gm.  13.00                  BEER            Popular   36.0  Cl.   2.79      
+             WINE            Domestic  15.0  Cl.   6.50                  WINE            House     15.0  Cl.   3.79      
+   Firm  5 -                       Firm 5                    
+ 123. Seats  STEAK           Sirloin  225.0  Gm.  13.50  
+             CHICKEN         Breast   190.0  Gm.  10.50      
+             PASTA           Imported 175.0  Gm.  10.00      
+             SHRIMP          Breaded  200.0  Gm.   9.25      
+             PIZZA           Frozen   240.0  Gm.   7.50      
+             WINE            Domestic  15.0  Cl.   6.50      
+             SPIRITS         Top Shf    5.0  Cl.   5.00      
+ 
+                                                                                                                         
+                    *********     Year-to-date Summary of Operating and Financial Results     *********                  
+ 
+                   Total        Total     Avg. Food   Average         Total    Total Operating Net Income                
+         Firm      Sales      Customers    Check     Food Cost     Gross Profit     Profit       After Tax   Firm        
+           1      4173804.      160638.     20.80        29.4 %       3028578.      690556.       175868.       1
+           2      3405664.      221393.     12.27        31.7 %       2403138.      548444.        89179.       2
+           3      3444355.      223645.     12.50        32.5 %       2369145.      509959.        64716.       3
+           4      3349689.      276221.      9.68        37.1 %       2204254.      546632.        88075.       4
+           5      3839403.      248019.     12.37        36.8 %       2495006.      482765.        44793.       5
+1***********************************************************************************************************************
+  C O R N E L L     R E S T A U R A N T     A D M I N I S T R A T I O N     S I M U L A T I O N     E X E R C I S E
+                                           ENTR 4010 - Foodservice Intrapreneurship                  
+***********************************************************************************************************************
+      Firm  1                                                Firm 1                                       Period  4
+ Market Area ME                                      Economic Index  .99                                Autumn Quarter  
+ 
+                              A summary of guest commentaries surveyed in comparison to other firms:          
+ 
+                               The most frequent service perception commentary is:        Full            
+                                       Service amenities in relation to price are:        Average         
+                                                     Value on the plate is deemed:        Lower           
+                                                  The menu appeal is perceived as:        Modest          
+                                             The music and entertainment value is:        Nice            
+                                          Cleanliness and overall appearances are:        Average         
+                                  The number of staff compared to service time is:        About right     
+                                    Service delivery compared to expectations was:        OK              
+                                                          Order size is viewed as:        All right       
+ 
+                                        A Confidential Survey prepared by financial analysts                             
+ 
+                                    Total    Orders     Food      Gross      Food    Operating  Net Income               
+                            FIRM    Sales     Sold      Sales     Profit     Cost%     Profit   after  tax               
+                    Firm      1   1034387.    36926.   816115.   747987.      29.    169851.      42824.
+                    Firm      2    810747.    60329.   644254.   571965.      32.    134685.      21372.
+                    Firm      3    833813.    67344.   667147.   563009.      32.    118555.      10884.
+                    Firm      4    701610.    96602.   555249.   493546.      31.    126061.      16112.
+                    Firm      5    829226.    66958.   659445.   565603.      33.    112641.       5845.
+ 
+                                 Cash on  Furniture  Kitchen  Building  Mortgage  Capitalized Total                      
+                                   Hand   Fixture     Equip.                        Leases    Equity                     
+                       Firm  1   214654.   237200.    24840.   632400.   876724.   194789.   625868.
+                       Firm  2   158540.   237200.    24840.   632400.   876724.   194789.   539179.
+                       Firm  3   133100.   237200.    24840.   632400.   876724.   194789.   514717.
+                       Firm  4   171676.   237200.    24840.   632400.   876724.   194789.   538075.
+                       Firm  5   112754.   237200.    24840.   632400.   876724.   194789.   494793.
+1***********************************************************************************************************************
+  C O R N E L L     R E S T A U R A N T     A D M I N I S T R A T I O N     S I M U L A T I O N     E X E R C I S E
+                                           ENTR 4010 - Foodservice Intrapreneurship                  
+***********************************************************************************************************************
+      Firm  2                                                Firm 2                                       Period  4
+ Market Area ME                                      Economic Index  .99                                Autumn Quarter  
+ 
+                              A summary of guest commentaries surveyed in comparison to other firms:          
+ 
+                               The most frequent service perception commentary is:        Moderate        
+                                       Service amenities in relation to price are:        Fair            
+                                                     Value on the plate is deemed:        Normal          
+                                                  The menu appeal is perceived as:        Modest          
+                                             The music and entertainment value is:        OK              
+                                          Cleanliness and overall appearances are:        Average         
+                                  The number of staff compared to service time is:        Generous        
+                                    Service delivery compared to expectations was:        OK              
+                                                          Order size is viewed as:        All right       
+1***********************************************************************************************************************
+  C O R N E L L     R E S T A U R A N T     A D M I N I S T R A T I O N     S I M U L A T I O N     E X E R C I S E
+                                           ENTR 4010 - Foodservice Intrapreneurship                  
+***********************************************************************************************************************
+      Firm  3                                                Firm 3                                       Period  4
+ Market Area ME                                      Economic Index  .99                                Autumn Quarter  
+ 
+                              A summary of guest commentaries surveyed in comparison to other firms:          
+ 
+                               The most frequent service perception commentary is:        Moderate        
+                                       Service amenities in relation to price are:        Great           
+                                                     Value on the plate is deemed:        Higher          
+                                                  The menu appeal is perceived as:        Modest          
+                                             The music and entertainment value is:        OK              
+                                          Cleanliness and overall appearances are:        Average         
+                                  The number of staff compared to service time is:        About right     
+                                    Service delivery compared to expectations was:        OK              
+                                                          Order size is viewed as:        All right       
+ 
+ 
+                                        Market research companies report on guest commentaries
+                                                                1              2              3              4        
+       The most frequent service perception commentary is: Full           Moderate       Moderate       Quick          
+               Service amenities in relation to price are: Average        Fair           Great          Fair           
+                             Value on the plate is deemed: Lower          Normal         Higher         Normal         
+                          The menu appeal is perceived as: Modest         Modest         Modest         Modest         
+                     The music and entertainment value is: Nice           OK             OK             Moderate       
+                  Cleanliness and overall appearances are: Average        Average        Average        Average        
+          The number of staff compared to service time is: About right    Generous       About right    Too few        
+            Service delivery compared to expectations was: OK             OK             OK             OK             
+                                  Order size is viewed as: All right      All right      All right      All right      
+ 
+ 
+                                                                5             
+       The most frequent service perception commentary is: Moderate       
+               Service amenities in relation to price are: Fair           
+                             Value on the plate is deemed: Normal         
+                          The menu appeal is perceived as: Modest         
+                     The music and entertainment value is: OK             
+                  Cleanliness and overall appearances are: Average        
+          The number of staff compared to service time is: About right    
+            Service delivery compared to expectations was: Perfect        
+                                  Order size is viewed as: All right      
+1***********************************************************************************************************************
+  C O R N E L L     R E S T A U R A N T     A D M I N I S T R A T I O N     S I M U L A T I O N     E X E R C I S E
+                                           ENTR 4010 - Foodservice Intrapreneurship                  
+***********************************************************************************************************************
+      Firm  4                                                Firm 4                                       Period  4
+ Market Area ME                                      Economic Index  .99                                Autumn Quarter  
+ 
+                              A summary of guest commentaries surveyed in comparison to other firms:          
+ 
+                               The most frequent service perception commentary is:        Quick           
+                                       Service amenities in relation to price are:        Fair            
+                                                     Value on the plate is deemed:        Normal          
+                                                  The menu appeal is perceived as:        Modest          
+                                             The music and entertainment value is:        Moderate        
+                                          Cleanliness and overall appearances are:        Average         
+                                  The number of staff compared to service time is:        Too few         
+                                    Service delivery compared to expectations was:        OK              
+                                                          Order size is viewed as:        All right       
+ 
+ 
+                                        Market research companies report on guest commentaries
+                                                                1              2              3              4        
+       The most frequent service perception commentary is: Full           Moderate       Moderate       Quick          
+               Service amenities in relation to price are: Average        Fair           Great          Fair           
+                             Value on the plate is deemed: Lower          Normal         Higher         Normal         
+                          The menu appeal is perceived as: Modest         Modest         Modest         Modest         
+                     The music and entertainment value is: Nice           OK             OK             Moderate       
+                  Cleanliness and overall appearances are: Average        Average        Average        Average        
+          The number of staff compared to service time is: About right    Generous       About right    Too few        
+            Service delivery compared to expectations was: OK             OK             OK             OK             
+                                  Order size is viewed as: All right      All right      All right      All right      
+ 
+ 
+                                                                5             
+       The most frequent service perception commentary is: Moderate       
+               Service amenities in relation to price are: Fair           
+                             Value on the plate is deemed: Normal         
+                          The menu appeal is perceived as: Modest         
+                     The music and entertainment value is: OK             
+                  Cleanliness and overall appearances are: Average        
+          The number of staff compared to service time is: About right    
+            Service delivery compared to expectations was: Perfect        
+                                  Order size is viewed as: All right      
+1***********************************************************************************************************************
+  C O R N E L L     R E S T A U R A N T     A D M I N I S T R A T I O N     S I M U L A T I O N     E X E R C I S E
+                                           ENTR 4010 - Foodservice Intrapreneurship                  
+***********************************************************************************************************************
+      Firm  5                                                Firm 5                                       Period  4
+ Market Area ME                                      Economic Index  .99                                Autumn Quarter  
+ 
+                              A summary of guest commentaries surveyed in comparison to other firms:          
+ 
+                               The most frequent service perception commentary is:        Moderate        
+                                       Service amenities in relation to price are:        Fair            
+                                                     Value on the plate is deemed:        Normal          
+                                                  The menu appeal is perceived as:        Modest          
+                                             The music and entertainment value is:        OK              
+                                          Cleanliness and overall appearances are:        Average         
+                                  The number of staff compared to service time is:        About right     
+                                    Service delivery compared to expectations was:        Perfect         
+                                                          Order size is viewed as:        All right       
+1
+1***********************************************************************************************************************
+      C O R N E L L  R E S T A U R A N T  A D M I N I S T R A T I O N  S I M U L A T I O N  E X E R C I S E 
+                                           ENTR 4010 - Foodservice Intrapreneurship                  
+ ***********************************************************************************************************************
+       Marketing Area ME                                                                                  
+ 
+            Period     Period     Period     Period     Period     Period     Period     Period     Period     Period   
+               1          2          3          4
+ 
+ Total Sales                     
+ 
+ Firm  1    983129.   1074566.   1081721.   1034387.
+ Firm  2    932301.    794210.    868406.    810747.
+ Firm  3    932301.    811723.    866518.    833813.
+ Firm  4    953380.    834079.    860619.    701610.
+ Firm  5    932301.   1063814.   1014062.    829226.
+ 
+ Value on the Plate/Food Cost    
+ 
+ Firm  1      29.49      29.79      28.99      29.49
+ Firm  2      33.32      29.23      31.67      32.17
+ Firm  3      33.32      32.22      31.93      32.40
+ Firm  4      34.95      34.64      46.07      31.44
+ Firm  5      33.32      46.14      33.37      32.85
+ 
+ Service/Payroll $               
+ 
+ Firm  1    307580.    348348.    353626.    324324.
+ Firm  2    263900.    245700.    245700.    227500.
+ Firm  3    263900.    254800.    254800.    209300.
+ Firm  4    268632.    208936.    195650.    179998.
+ Firm  5    263900.    295568.    316680.    240240.
+ 
+ Food Orders                     
+ 
+ Firm  1     38340.     40130.     39727.     36926.
+ Firm  2     76554.     65310.     85207.     60329.
+ Firm  3     76554.     62718.     80743.     67344.
+ Firm  4    138681.    119840.    116722.     96602.
+ Firm  5     76554.     85301.     75222.     66958.
+ 
+ Advertising & Promotion, $      
+ 
+ Firm  1      8500.     10250.     10500.     13350.
+ Firm  2     10600.     13800.     13900.     14250.
+ Firm  3     10600.     11600.     10600.     13500.
+ Firm  4     13600.     13600.     13800.     15000.
+ Firm  5     10600.     11250.     11250.     12800.
+ 
+ The Three A's -                 
+ 
+ Firm  1     74925.     87195.     87591.     83389.
+ Firm  2     67105.     65686.     80124.     65197.
+ Firm  3     67105.     59495.     69409.     92344.
+ Firm  4     64831.     60055.     56682.     51049.
+ Firm  5     67105.     74122.     69629.     66675.
+1
+ 
+ Price Image/Avg. Total Check    
+ 
+ Firm  1      25.64      26.78      27.23      28.01
+ Firm  2      12.18      12.16      10.19      13.44
+ Firm  3      12.18      12.94      10.73      12.38
+ Firm  4       6.87       6.96       7.37       7.26
+ Firm  5      12.18      12.47      13.48      12.38
+ 
+ Managerial Eff./Profit BOC %    
+ 
+ Firm  1      17.01      16.05      16.73      16.42
+ Firm  2      16.13      15.42      16.22      16.61
+ Firm  3      16.13      13.56      15.11      14.22
+ Firm  4      16.32      18.63      12.74      17.97
+ Firm  5      16.13       7.66      13.63      13.58
+ 
+ Operating Profit                
+ 
+ Firm  1    167234.    172477.    180994.    169851.
+ Firm  2    150420.    122491.    140848.    134685.
+ Firm  3    150420.    110067.    130917.    118555.
+ Firm  4    155570.    155365.    109635.    126061.
+ Firm  5    150420.     81438.    138266.    112641.
+ 
+ Return on Equity                
+ 
+ Firm  1      35.67      35.65      36.90      29.38
+ Firm  2      26.55      10.99      20.08      16.51
+ Firm  3      26.55       4.44      15.36       8.64
+ Firm  4      29.34      27.53       4.43      12.35
+ Firm  5      26.55     -13.70      22.02       4.78
+ 
+        Market Area                                       Affiliation
+  Firm 1    ME                      Firm 1                    B1
+  Firm 2    ME                      Firm 2                    B1
+  Firm 3    ME                      Firm 3                    B1
+  Firm 4    ME                      Firm 4                    B1
+  Firm 5    ME                      Firm 5                    B1
+

@@ -1,0 +1,25 @@
+
+
+
+                  Firm 2                                                            LS        B1
+STEAK                           Burger              1     180.0      2000      6.50     0.000         0
+STEAK                           Sirloin             2     220.0      2250     13.49     0.000         0
+CHICKEN                         Fingers             1     180.0      1850      6.99     0.000         0
+PASTA                           Imported            2     185.0      2250      8.49     0.000         0
+PIZZA                           Frozen              1     240.0      2250      7.99     0.000         0
+BEER                            Premium             2      36.0      1800      4.49     0.000         0
+SPIRITS                         Top Shf             2       4.0      1500      4.75     0.000         0
+                                                                                        0.000
+                                                                                        0.000
+                                                                                        0.000
+Management                                        1.5       0.0       0.0         0         0         0         0         0         0         0
+Supervisory                                       1.0       0.0       0.0         0         0         0         0         0         0         0
+Service                                          10.0       0.0       0.0         0         0
+Support                                           9.0       0.0       0.0         0         0
+Operations                                       27.0     12.50      0.60     10000     19000         1         0         0         0     12000
+Finance                                             0         0         0         0         0         0         0         0         0         0
+Assets - Investments                                0         0
+       - Leases                                     0         0
+       - Borrowings                                 0         0
+Variances                                           0         0
+
